@@ -1,0 +1,52 @@
+name: Yapay Öğrenme Sözlüğü
+title: Yapay Öğrenme Sözlüğü
+description: >- # this means to ignore newlines until "baseurl:"
+  Yapay Öğrenme Sözlüğü - Yapay Zeka Araştırma İnisiyatifi
+about: Yapay Öğrenme Sözlüğü - Yapay Zeka Araştırma İnisiyatifi
+
+baseurl: 
+color_theme: # Available themes: blue (default), green, purple, red and yellow
+header:
+    logo:
+        text: Yapay Öğrenme Sözlüğü
+        image:
+    nav:
+        - item_name: SÖZLÜK
+          item_url: '/'          
+        - item_name: KAYNAKLAR
+          item_url: '/kaynaklar'        
+        - item_name: YZAI
+          item_url: 'https://yz-ai.github.io/'  
+footer:
+    content:
+        logo:
+            text: Yapay Öğrenme Sözlüğü
+            image:
+        copyright:  Yapay Öğrenme Sözlüğü © 2019. Bir Yapay Zeka Araştırma İnisiyatifi Ürünüdür.
+    social_list:
+        - network_name: github
+          profile_url: 'https://github.com/yz-ai'
+        - network_name: twitter
+          profile_url: '#'
+google_analytics:
+    tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+comments:
+    disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
