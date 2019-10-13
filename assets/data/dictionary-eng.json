@@ -1,10 +1,53 @@
----
----
 [
-  {% for item in site.data.dictionary_eng %}
+  
     {
-      "word"    : "{{ item.word }}",
-      "translation" : "{{ item.translation }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "word"    : "train",
+      "translation" : "eğitim"
+    },
+  
+    {
+      "word"    : "label",
+      "translation" : "etiket"
+    },
+  
+    {
+      "word"    : "adversarial",
+      "translation" : "çekişmeli"
+    },
+  
+    {
+      "word"    : "feature",
+      "translation" : "öznitelik"
+    },
+  
+    {
+      "word"    : "back propogation",
+      "translation" : "geri yayılım"
+    },
+  
+    {
+      "word"    : "binary classification",
+      "translation" : "ikili sınıflandırma"
+    },
+  
+    {
+      "word"    : "classification",
+      "translation" : "sınıflandırma"
+    },
+  
+    {
+      "word"    : "convolutional neural networks (CNN)",
+      "translation" : "evrişimsel sinir ağları"
+    },
+  
+    {
+      "word"    : "gradient",
+      "translation" : "eğim"
+    },
+  
+    {
+      "word"    : "gradient descent",
+      "translation" : "gradyan inişi (bayır inişi)"
+    }
+  
 ]
