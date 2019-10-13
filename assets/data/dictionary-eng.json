@@ -1,0 +1,10 @@
+---
+---
+[
+  {% for item in site.data.dictionary_eng %}
+    {
+      "word"    : "{{ item.word }}",
+      "translation" : "{{ item.translation }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
