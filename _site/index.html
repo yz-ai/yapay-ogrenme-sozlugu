@@ -124,21 +124,23 @@
                             <div class="nav-grid__item">
                                 <div class="nav-grid__content" data-mh="" style="height: 249px;">
                                     <div class="search-container">
-  <form>
-    <div class="inner-form">
-      <div class="input-field first-wrap" style="height: 50px;">
-        <div class="input-select">
-          <select id="ddl-languages" data-trigger="" name="choices-single-defaul">
-            <option value="eng" selected>English - Turkish</option>
-            <option value="tr">Turkish - English</option>
+    <form>
+        <div class="inner-form">
+            <div class="input-field first-wrap" style="height: 50px;">
+                <div class="input-select">
+                    <select id="ddl-languages" data-trigger="" name="choices-single-defaul">
+            <option value="eng-tr" selected>English - Turkish</option>
+            <option value="tr-eng">Turkish - English</option>
+            <option value="fr-eng">French - English</option>
+            <option value="eng-fr">English - French</option>
           </select>
-        </div>
-      </div>
-      <div class="input-field second-wrap">
-        <input id="txt-search" type="text" placeholder="Aradığınız sözcüğü giriniz." autocomplete="off"/>
-      </div>
-      <div class="input-field third-wrap">
-        <button id="btn-search" class="btn-search" type="button">
+                </div>
+            </div>
+            <div class="input-field second-wrap">
+                <input id="txt-search" type="text" placeholder="Aradığınız sözcüğü giriniz." autocomplete="off" />
+            </div>
+            <div class="input-field third-wrap">
+                <button id="btn-search" class="btn-search" type="button">
           <svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search"
             role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
             <path fill="currentColor"
@@ -146,11 +148,11 @@
             </path>
           </svg>
         </button>
-      </div>
-    </div>
-    <ul class="list-group result-items" id="result">
-    </ul>
-  </form>
+            </div>
+        </div>
+        <ul class="list-group result-items" id="result">
+        </ul>
+    </form>
 </div>
                                 </div><!-- /.nav-grid__content -->
                             </div><!-- /.nav-grid__item -->

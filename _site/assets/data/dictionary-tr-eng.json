@@ -1,0 +1,53 @@
+[
+  
+    {
+      "word"    : "eğitim",
+      "translation" : "train"
+    },
+  
+    {
+      "word"    : "etiket",
+      "translation" : "label"
+    },
+  
+    {
+      "word"    : "çekişmeli",
+      "translation" : "adversarial"
+    },
+  
+    {
+      "word"    : "öznitelik",
+      "translation" : "feature"
+    },
+  
+    {
+      "word"    : "geri yayılım",
+      "translation" : "back propogation"
+    },
+  
+    {
+      "word"    : "ikili sınıflandırma",
+      "translation" : "binary classification"
+    },
+  
+    {
+      "word"    : "sınıflandırma",
+      "translation" : "classification"
+    },
+  
+    {
+      "word"    : "evrişimsel sinir ağları",
+      "translation" : "convolutional neural networks (CNN)"
+    },
+  
+    {
+      "word"    : "eğim",
+      "translation" : "gradient"
+    },
+  
+    {
+      "word"    : "gradyan inişi (bayır inişi)",
+      "translation" : "gradient descent"
+    }
+  
+]

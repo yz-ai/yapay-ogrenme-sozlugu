@@ -1,26 +1,29 @@
-- word: eğitim
-  translation: train
+- word: train
+  translation: eğitim
   
-- word: etiket
-  translation: label
+- word: label
+  translation: etiket
 
-- word: çekişmeli
-  translation: adversarial
+- word: adversarial
+  translation: çekişmeli
 
-- word: öznitelik
-  translation: feature
+- word: feature
+  translation: öznitelik
 
-- word: geri yayılım
-  translation: back propogation
+- word: back propogation
+  translation: geri yayılım
+
+- word: binary classification
+  translation: ikili sınıflandırma
 
 - word: classification
   translation: sınıflandırma
 
-- word: evrişimsel sinir ağları
-  translation: convolutional neural networks (CNN)
+- word: convolutional neural networks (CNN)
+  translation: evrişimsel sinir ağları
 
-- word: eğim
-  translation: gradient
+- word: gradient
+  translation: eğim
 
-- word: gradyan inişi (bayır inişi)
-  translation: gradient descent
+- word: gradient descent
+  translation: gradyan inişi (bayır inişi)
