@@ -27,3 +27,334 @@
 
 - word: gradient descent
   translation: gradyan inişi (bayır inişi)
+  
+- word: absolute value verification 
+ translation:mutlak değer doğrulaması
+ 
+- word: accuracy
+ translation: doğruluk
+ 
+- word: activation function
+ translation: aktifleştirme fonksiyonu
+ 
+ - word: active constraint
+ translation: aktif kısıt
+ 
+ - word: adaptive linear element
+ translation: uyarlanır doğrusal eleman
+ 
+ - word: adversarial training
+ translation: çekişmeli eğitme
+ 
+ - word: affine
+ translation: ilgin
+ 
+ - word: almost everywhere
+ translation: hemen hemen her yerde
+ 
+ - word: almost sure convergence
+ translation: hemen hemen kesin yakınsama
+ 
+ - word: ancestral sampling
+ translation: gecmiş örnekleme
+ 
+ - word: annealed importance sampling
+ translation: tavlı önem örnekleme
+ 
+ - word: approximation
+ translation: yaklaşıklık
+ 
+ - word: approximate bayesian compuation
+ translation: yaklaşık Bayes hesaplama
+ 
+ - word: approximate inference
+ translation: yaklaşık çıkarım
+ 
+ - word: array
+ translation: dizi
+ 
+ - word: artificial intelligence
+ translation: yapay zeka
+ 
+ - word: artificial neural network
+ translation: yapay sinir ağı
+ 
+ - word: asymptotically unbiased
+ translation: asimptotik önyargısız
+ 
+ - word: asynchronize
+ translation: asenkron
+ 
+ - word: attribute
+ translation: nitelik
+ 
+ - word: audio
+ translation: ses
+ 
+ - word: autoencoder
+ translation: otokodlayıcı
+ 
+ - word: automatic speech recognition
+ translation: konuşma tanıma
+ 
+ - word: autoregressive networks
+ translation: otobağlayıcı ağlar
+ 
+ - word: back-propagation through time
+ translation: zamanla geri yayılım
+ 
+ - word: bag of words
+ translation: sözcük çuvalı
+ 
+ - word: bagging
+ translation: istifleme
+ 
+ - word: batch
+ translation: yığın
+ 
+ - word: batch normalization
+ translation: yığın normalleştirme
+ 
+ - word: Bayes error
+ translation: Bayes hatası
+ 
+ - word: Bayes rule
+ translation: Bayes kuralı
+ 
+ - word: Bayesian hyperparameter optimization
+ translation: Bayesçi hiperparametre eniyileme
+ 
+ - word: Bayesian network
+ translation: Bayes ağı
+ 
+ - word: Bayesian probability
+ translation: Bayes olasılığı
+ 
+ - word: Bayesian statistics
+ translation: Bayes istatistiği
+ 
+ - word: belief network
+ translation: inanç ağı
+ 
+ - word: benchmark
+ translation: denek taşı
+ 
+ - word: Bernoulli distribution
+ translation: Bernoulli dağılımı
+ 
+ - word: bias
+ translation: önyargı
+ 
+ - word: bias parameter
+ translation: önyargı parametresi
+ 
+ - word: biased importance sampling
+ translation: önyargılı önem örnekleme
+ 
+ - word: binary relation
+ translation: ikili bağıntı
+  
+ - word: block gibbs sampling
+ translation: blok Gibbs örnekleme
+ 
+ - word: boltzmann distribution
+ translation: Boltzmann dağılımı
+ 
+ - word: boltzmann machine
+ translation: Boltzmann makinesi
+ 
+ - word: broadcasting
+ translation: yayımlama
+ 
+ - word: brute force
+ translation: kaba kuvvet
+ 
+ - word: burn in
+ translation: alıştırma
+ 
+ - word: calculus
+ translation: analiz
+ 
+ - word: calculus of variations
+ translation: değişim analizi
+ 
+ - word: cascade
+ translation: aşamalı
+ 
+ - word: categorical distribution
+ translation: kategorik dağılım
+ 
+ - word: centering trick
+ translation: ortalama hilesi
+ 
+ - word: central limit theorem
+ translation: merkezi limit teoremi
+ 
+ - word: chain rule
+ translation: zincir kuralı
+ 
+ - word: chain rule of productivity
+ translation: olasılığın zincir kuralı
+ 
+ - word: chess
+ translation: satranç
+ 
+ - word: chord
+ translation: kiriş
+ 
+ - word: chordal graph
+ translation: kirişli çizge
+ 
+ - word: class-based language models
+ translation: sınıf tabanlı dil modelleri
+ 
+ - word: classical dynamic system
+ translation: klasik dinamik sistem
+ 
+ - word: clique
+ translation: klik
+ 
+ - word: clique potential
+ translation: klik potansiyeli
+ 
+ - word: collaborative filtering
+ translation: dayanışmalı filtreleme
+ 
+ - word: collider
+ translation: çarpıştırıcı
+ 
+ - word: color images
+ translation: renkli görüntüler
+ 
+ - word: complex cell
+ translation: karmaşık hücre
+ 
+ - word: computational graph
+ translation: hesaplamalı çizge
+ 
+ - word: computer vision
+ translation: bilgisayarlı görü
+ 
+ - word: concept drift
+ translation: kavram sapması
+ 
+ - word: condition number
+ translation: matrisin sağlamlık sayısı
+ 
+ - word: conditional computation
+ translation: koşullu hesaplama
+ 
+ - word: conditional independence
+ translation: koşullu bağımsızlık
+ 
+ - word: conditional probability
+ translation: koşullu olasılık
+ 
+ - word: conditional RBM
+ translation: koşullu RBM
+ 
+ - word: connectionism
+ translation: bağlantıcılık
+ 
+ - word: connectionist temporal classification
+ translation: bağlantıcı zamansal sınıflandırma
+ 
+ - word: consistency
+ translation: tutarlılık
+ 
+ - word: constancy
+ translation: sabitlik
+ 
+ - word: constrained optimization
+ translation: kısıtlı eniyileme
+ 
+ - word: content-based addressing
+ translation: içerik-tabanlı adresleme
+ 
+ - word: content-based recommender systems
+ translation: içerik-tabanlı öneri sistemleri
+ 
+ - word: context
+ translation: bağlam
+ 
+ - word: context specific independence
+ translation: bağlama özgü bağımsızlık
+ 
+ - word: contextual bandits
+ translation: bağlamsal yol kesmeler
+ 
+ - word: continuation methods
+ translation: sürdürme yöntemleri
+ 
+ - word: continuous
+ translation: sürekli
+ 
+ - word: contractive autoencoder
+ translation: daraltan otokodlayıcı
+ 
+ - word: contrast
+ translation: karşıtlık
+ 
+ - word: contrastive divergence
+ translation: karşıtsal ıraksama
+ 
+ - word: convex optimization
+ translation: dışbükey eniyileme
+ 
+ - word: convolution
+ translation: evrişim
+ 
+ - word: convolutional network
+ translation: evrişimsel ağ
+ 
+ - word: coordinate descent
+ translation: koordinat inişi
+ 
+ - word: coordinate ascent
+ translation: koordinat çıkışı
+ 
+ - word: correlation 
+ translation: korelasyon
+  
+ - word: cost function
+ translation: maliyet fonksiyonu
+ 
+ - word: covariance
+ translation: eşdeğişirlik
+ 
+ - word: covariance matrix
+ translation: eşdeğişirlik matrisi
+ 
+ - word: coverage
+ translation: kapsama
+ 
+ - word: critical temperature
+ translation: kritik sıcaklık
+ 
+ - word: cross-correlation
+ translation: çapraz korelasyon
+ 
+ - word: cross-entropy
+ translation: çapraz entropi
+ 
+ - word: cross-validation
+ translation: çapraz sağlama
+ 
+ - word: curriculum learning
+ translation: müfredat öğrenme
+ 
+ - word: curse of dimensionality
+ translation: boyut laneti
+ 
+ - word: d-seperation
+ translation: d-ayırma
+ 
+ - word: damping
+ translation: söndürme
+ 
+ - word: data generating distribution
+ translation: veri üretim dağılımı
+ 
+ - word: data generating process
+ translation: veri üretim işlemi
+ 
