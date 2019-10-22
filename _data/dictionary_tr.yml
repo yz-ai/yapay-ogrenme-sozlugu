@@ -2875,86 +2875,590 @@
    - word: plate
  translation: tabaka
  
-   - word:  
- translation:
+   - word: plot 
+ translation: çizim
  
-   - word:  
- translation:
+   - word: plurality
+ translation: çoğulluk
  
-   - word:  
- translation:
+   - word: policy
+ translation: politika
  
-   - word:  
- translation:
+   - word: polychotomizer
+ translation: çoklu ayırıcı
  
-   - word:  
- translation:
+   - word: polyhedron
+ translation: çokyüzlü
  
-   - word:  
- translation:
+   - word: polynomial
+ translation: çokterimli
  
-   - word:  
- translation:
+   - word: polytree
+ translation: çoklu ağaç
  
-   - word:  
- translation:
+   - word: positive
+ translation: artı
  
-   - word:  
- translation:
+   - word: positive definite 
+ translation: kesin artı
  
-   - word:  
- translation:
+   - word: positive semidefinite
+ translation: yarı kesin artı
  
-   - word:  
- translation:
+   - word: posterior 
+ translation: sonsal olasılık
  
-   - word:  
- translation:
+   - word: posthoc 
+ translation: artçı
  
-   - word:  
- translation:
+   - word: postpruning
+ translation: geç budama
  
-   - word:  
- translation:
+   - word: potential function
+ translation: gerilim işlevi
  
-   - word:  
- translation:
+   - word: power
+ translation: üst
  
-   - word: 
- translation:
+   - word: power function
+ translation: güç işlevi
  
-   - word: 
- translation:
+   - word: precision
+ translation: kesinlik
  
-   - word: 
- translation:
+   - word: predicate
+ translation: belirtim
  
-   - word: 
- translation:
+   - word: prediction
+ translation: öngörü
  
-   - word: 
- translation:
+   - word: predictive
+ translation: öngörücü
  
-   - word:
- translation:
+   - word: prepruning
+ translation: erken budama
  
-   - word: 
- translation:
+   - word: primal
+ translation: asal
  
-   - word: 
- translation:
+   - word: principal
+ translation: temel
  
-   - word: 
- translation:
+   - word: principle
+ translation: ilke
  
-   - word: 
- translation:
+   - word: prior
+ translation: önsel
  
-   - word: 
- translation:
+   - word: probabilistic
+ translation: olasılıksal
  
-   - word: 
- translation:
+   - word: probability
+ translation: olasılık
  
-   - word: 
- translation:
+   - word: probably
+ translation: olası
+
+   - word: procedure
+ translation: yordam
+   
+   - word: projection
+ translation: izdüşüm
+  
+   - word: propagation
+ translation: yayılım
+  
+   - word: propositional rule
+ translation: önermeli kural
+  
+   - word: prototype 
+ translation: asıl örnek
+  
+   - word: pruning
+ translation: budama
+  
+   - word: pseudocode
+ translation: örnek program
+   
+   - word: purity
+ translation: saflık
+   
+   - word: pursuit
+ translation: izleme
+   
+   - word: quadratic
+ translation: karesel, ikinci dereceden
+   
+   - word: quantization
+ translation: nicemleme
+   
+   - word: query
+ translation: sorgu
+   
+   - word: radial
+ translation: dairesel
+   
+   - word: random
+ translation: rastgele
+  
+  - word: random
+ translation: rastsal
+ 
+  - word: randomization
+ translation: rastsallastırma
+ 
+  - word: range
+ translation: açıklık
+ 
+  - word: rank of a matrix
+ translation: dizeyin kertesi
+ 
+  - word: rank test
+ translation: sıra sınaması
+ 
+  - word: real-time
+ translation: gerçek zamanlı
+ 
+  - word: reasoning
+ translation: akıl yürütme
+ 
+  - word: recall
+ translation: duyarlılık
+ 
+  - word: receiver
+ translation: alıcı
+ 
+  - word: receptive field
+ translation: algı alanı
+ 
+  - word: reciprocal
+ translation: ters
+ 
+  - word: recognition
+ translation: tanıma
+ 
+  - word: reconstruction
+ translation: geri çatma
+ 
+  - word: recurrent
+ translation: özyineli
+ 
+  - word: recursive
+ translation: özçağrılı
+ 
+  - word: redundancy
+ translation: fazlalık
+ 
+  - word: reference
+ translation: dayanak
+ 
+  - word: references
+ translation: kaynaklar
+ 
+  - word: region
+ translation: alan
+ 
+  - word: regression
+ translation: bağlanım
+ 
+  - word: regressogram
+ translation: bağlanım çiziti
+ 
+  - word: regularization
+ translation: düzenlileştirme
+ 
+  - word: reinforcement
+ translation: pekiştirme
+ 
+  - word: reject
+ translation: ret
+ 
+  - word: relative
+ translation: görece
+ 
+  - word: relevance
+ translation: ilgililik
+ 
+  - word: replication
+ translation: çoğaltma
+ 
+  - word: repository
+ translation: veri tabanı
+ 
+  - word: representation
+ translation: gösterim
+ 
+  - word: residual
+ translation: artık
+ 
+  - word: response
+ translation: tepki
+ 
+  - word: retrieval
+ translation: erişim
+ 
+  - word: reverse engineering
+ translation: tersine mühendislik
+ 
+  - word: reward
+ translation: ödül
+ 
+  - word: ridge
+ translation: sırt
+ 
+  - word: risk
+ translation: risk
+ 
+  - word: robust
+ translation: gürbüz
+ 
+  - word: row
+ translation: satır
+ 
+  - word: rule
+ translation: kural
+ 
+  - word: running
+ translation: akan
+ 
+  - word: sample
+ translation: örneklemek veya örneklem
+ 
+  - word: scalar
+ translation: sayıl
+ 
+  - word: scale
+ translation: ölçek
+ 
+  - word: scatter
+ translation: saçılım
+ 
+  - word: scene
+ translation: görüntü
+ 
+  - word: schedule
+ translation: zaman çizelgesi
+ 
+  - word: scree
+ translation: kayşat
+ 
+  - word: search
+ translation: arama
+ 
+  - word: section
+ translation: bölüm
+ 
+  - word: segmentation
+ translation: bölütleme
+ 
+  - word: selection
+ translation: seçim
+ 
+  - word: self-organizing
+ translation: özörgütlemeli
+ 
+  - word: semiparametric
+ translation: dağılıma yarı bağlı
+ 
+  - word: sensitivity
+ translation: duyarlılık
+ 
+  - word: sensor
+ translation: alıcı
+ 
+  - word: sequence 
+ translation: dizi
+ 
+  - word: sequential
+ translation: sırayla
+ 
+  - word: set
+ translation: küme
+ 
+  - word: shaded
+ translation: gölgeli
+ 
+  - word: share
+ translation: paylaşmak
+ 
+  - word: shatter
+ translation: tuz buz etmek
+ 
+  - word: short term
+ translation: kısa soluklu
+ 
+  - word: sigmoid
+ translation: işlevi
+ 
+  - word: sign
+ translation: işaret
+ 
+  - word: significance
+ translation: anlamlılık
+ 
+  - word: simulation
+ translation: benzetim
+ 
+  - word: simultaneous
+ translation: eş zamanlı
+ 
+  - word: singly connected
+ translation: tekli bağlı
+ 
+  - word: singular
+ translation: tekil
+ 
+  - word: slack variable
+ translation: artık değişken
+ 
+  - word: smooth
+ translation: düzleştirme
+ 
+  - word: smoother
+ translation: düzleştirici
+ 
+  - word: soft
+ translation: eşiksiz
+ 
+  - word: softmax function
+ translation: eşiksiz en büyük işlevi
+ 
+  - word: sort
+ translation: sıralamak
+ 
+  - word: spam
+ translation: istenmeyen elektronik posta
+ 
+  - word: span
+ translation: kapsamak
+ 
+  - word: sparse
+ translation: seyrek
+ 
+  - word: spatial
+ translation: uzamsal
+ 
+  - word: specific
+ translation: özgül
+ 
+  - word: specificity
+ translation: özgüllük
+ 
+  - word: spectral
+ translation: izgesel
+ 
+  - word: spectrum
+ translation: izge
+ 
+  - word: spline
+ translation: eğri
+ 
+  - word: split
+ translation: bölme
+ 
+  - word: spread
+ translation: yayılım
+ 
+  - word: stable
+ translation: kararlı
+ 
+  - word: stacking
+ translation: yığma
+ 
+  - word: stepsize
+ translation: adım büyüklüğü
+ 
+  - word: stimulation
+ translation: dürtü
+ 
+  - word: stochastic
+ translation: rastgele
+ 
+  - word: strategy
+ translation: yordam
+ 
+  - word: stratification
+ translation: katmanlastırma
+ 
+  - word: stress
+ translation: gerilim
+ 
+  - word: string
+ translation: dizi
+ 
+  - word: structure
+ translation: yapı
+ 
+  - word: stump
+ translation: ağaççık
+ 
+  - word: subgraph
+ translation: alt çizge
+ 
+  - word: subset
+ translation: altküme
+ 
+  - word: subspace
+ translation: altuzay
+ 
+  - word: sum-product
+ translation: toplam çarpım
+ 
+  - word: supervised
+ translation: gözetimli
+ 
+  - word: support
+ translation: destek
+ 
+  - word: surface
+ translation: yüzey
+ 
+  - word: switching
+ translation: geçişli
+ 
+  - word: symbol
+ translation: simge
+ 
+  - word: symmetric
+ translation: bakısımlı
+ 
+  - word: symptom
+ translation: belirti
+ 
+  - word: synchronization
+ translation: eşzamanlama
+ 
+  - word: system
+ translation: dizge
+ 
+  - word: table
+ translation: çizelge
+ 
+  - word: tangent
+ translation: teğet
+ 
+  - word: template
+ translation: şablon
+ 
+  - word: temporal
+ translation: zamansal
+ 
+  - word: term
+ translation: terim
+ 
+  - word: terminal
+ translation: uç
+ 
+  - word: test
+ translation: sınama
+ 
+  - word: theory
+ translation: kuram
+ 
+  - word: threshold
+ translation: eşik
+ 
+  - word: time delay
+ translation: zaman gecikmeli
+ 
+  - word: time series
+ translation: zaman dizisi
+ 
+  - word: topographic
+ translation: yerbetimsel
+ 
+  - word: topological
+ translation: ilingesel
+ 
+  - word: trace
+ translation: iz
+ 
+  - word: trade-off
+ translation: ödünleşim
+ 
+  - word: trajectory
+ translation: gezinge
+ 
+  - word: transcribe
+ translation: çevriyazmak
+ 
+  - word: transition
+ translation: geçiş
+ 
+  - word: transpose
+ translation: devrik
+ 
+  - word: traveling salesman
+ translation: gezgin satıcı
+ 
+  - word: trellis
+ translation: kafes
+ 
+  - word: two-sided
+ translation: iki yanlı
+ 
+  - word: unbiased
+ translation: yansız
+ 
+  - word: unconstrained
+ translation: kısıtlanmamış
+ 
+  - word: underfitting
+ translation: eksik öğrenme
+ 
+  - word: unfold
+ translation: açılmış
+ 
+  - word: uniform distribution
+ translation: tekdüze dağılım
+ 
+  - word: univariate
+ translation: tek değişkenli
+ 
+  - word: unobservable
+ translation: gözlenemeyen
+ 
+  - word: unsupervised
+ translation: gözetimsiz
+ 
+  - word: utility
+ translation: fayda
+ 
+  - word: validation
+ translation: geçerleme
+ 
+  - word: variance
+ translation: değişinti
+ 
+  - word: variational
+ translation: değişimsel
+ 
+  - word: vector
+ translation: yöney
+ 
+  - word: version
+ translation: sürüm
+ 
+  - word: vigilance
+ translation: tetiklik
+ 
+  - word: virtual
+ translation: sanal
+ 
+  - word: voting
+ translation: oylama
+ 
+  - word: weight
+ translation: ağırlık
+ 
+  - word: winner-take-all
+ translation: kazanan hepsini alır
+ 
+  - word: wrapper
+ translation: dürümcü
+ 
+  - word: xor
+ translation: dışlamalı veya
+ 
+  
+ 
