@@ -27,3438 +27,3438 @@
 
 - word: gradient descent
   translation: gradyan inişi (bayır inişi)
-  
+
 - word: absolute value verification 
- translation:mutlak değer doğrulaması
+  translation: mutlak değer doğrulaması
  
 - word: accuracy
- translation: doğruluk
+  translation: doğruluk
  
 - word: activation function
- translation: aktifleştirme fonksiyonu
+  translation: aktifleştirme fonksiyonu
  
- - word: active constraint
- translation: aktif kısıt
+- word: active constraint
+  translation: aktif kısıt
  
- - word: adaptive linear element
- translation: uyarlanır doğrusal eleman
+- word: adaptive linear element
+  translation: uyarlanır doğrusal eleman
  
- - word: adversarial training
- translation: çekişmeli eğitme
+- word: adversarial training
+  translation: çekişmeli eğitme
  
- - word: affine
- translation: ilgin
+- word: affine
+  translation: ilgin
  
- - word: almost everywhere
- translation: hemen hemen her yerde
+- word: almost everywhere
+  translation: hemen hemen her yerde
  
- - word: almost sure convergence
- translation: hemen hemen kesin yakınsama
+- word: almost sure convergence
+  translation: hemen hemen kesin yakınsama
  
- - word: ancestral sampling
- translation: gecmiş örnekleme
+- word: ancestral sampling
+  translation: gecmiş örnekleme
  
- - word: annealed importance sampling
- translation: tavlı önem örnekleme
+- word: annealed importance sampling
+  translation: tavlı önem örnekleme
  
- - word: approximation
- translation: yaklaşıklık
+- word: approximation
+  translation: yaklaşıklık
  
- - word: approximate bayesian compuation
- translation: yaklaşık Bayes hesaplama
+- word: approximate bayesian compuation
+  translation: yaklaşık Bayes hesaplama
  
- - word: approximate inference
- translation: yaklaşık çıkarım
+- word: approximate inference
+  translation: yaklaşık çıkarım
  
- - word: array
- translation: dizi
+- word: array
+  translation: dizi
  
- - word: artificial intelligence
- translation: yapay zeka
+- word: artificial intelligence
+  translation: yapay zeka
  
- - word: artificial neural network
- translation: yapay sinir ağı
+- word: artificial neural network
+  translation: yapay sinir ağı
  
- - word: asymptotically unbiased
- translation: asimptotik önyargısız
+- word: asymptotically unbiased
+  translation: asimptotik önyargısız
  
- - word: asynchronize
- translation: asenkron
+- word: asynchronize
+  translation: asenkron
  
- - word: attribute
- translation: nitelik
+- word: attribute
+  translation: nitelik
  
- - word: audio
- translation: ses
+- word: audio
+  translation: ses
  
- - word: autoencoder
- translation: otokodlayıcı
+- word: autoencoder
+  translation: otokodlayıcı
  
- - word: automatic speech recognition
- translation: konuşma tanıma
+- word: automatic speech recognition
+  translation: konuşma tanıma
  
- - word: autoregressive networks
- translation: otobağlayıcı ağlar
+- word: autoregressive networks
+  translation: otobağlayıcı ağlar
  
- - word: back-propagation through time
- translation: zamanla geri yayılım
+- word: back-propagation through time
+  translation: zamanla geri yayılım
  
- - word: bag of words
- translation: sözcük çuvalı
+- word: bag of words
+  translation: sözcük çuvalı
  
- - word: bagging
- translation: istifleme
+- word: bagging
+  translation: istifleme
  
- - word: batch
- translation: yığın
+- word: batch
+  translation: yığın
  
- - word: batch normalization
- translation: yığın normalleştirme
+- word: batch normalization
+  translation: yığın normalleştirme
  
- - word: Bayes error
- translation: Bayes hatası
+- word: Bayes error
+  translation: Bayes hatası
  
- - word: Bayes rule
- translation: Bayes kuralı
+- word: Bayes rule
+  translation: Bayes kuralı
  
- - word: Bayesian hyperparameter optimization
- translation: Bayesçi hiperparametre eniyileme
+- word: Bayesian hyperparameter optimization
+  translation: Bayesçi hiperparametre eniyileme
  
- - word: Bayesian network
- translation: Bayes ağı
+- word: Bayesian network
+  translation: Bayes ağı
  
- - word: Bayesian probability
- translation: Bayes olasılığı
+- word: Bayesian probability
+  translation: Bayes olasılığı
  
- - word: Bayesian statistics
- translation: Bayes istatistiği
+- word: Bayesian statistics
+  translation: Bayes istatistiği
  
- - word: belief network
- translation: inanç ağı
+- word: belief network
+  translation: inanç ağı
  
- - word: benchmark
- translation: denek taşı
+- word: benchmark
+  translation: denek taşı
  
- - word: Bernoulli distribution
- translation: Bernoulli dağılımı
+- word: Bernoulli distribution
+  translation: Bernoulli dağılımı
  
- - word: bias
- translation: önyargı
+- word: bias
+  translation: önyargı
  
- - word: bias parameter
- translation: önyargı parametresi
+- word: bias parameter
+  translation: önyargı parametresi
  
- - word: biased importance sampling
- translation: önyargılı önem örnekleme
+- word: biased importance sampling
+  translation: önyargılı önem örnekleme
  
- - word: binary relation
- translation: ikili bağıntı
+- word: binary relation
+  translation: ikili bağıntı
   
- - word: block gibbs sampling
- translation: blok Gibbs örnekleme
+- word: block gibbs sampling
+  translation: blok Gibbs örnekleme
  
- - word: boltzmann distribution
- translation: Boltzmann dağılımı
+- word: boltzmann distribution
+  translation: Boltzmann dağılımı
  
- - word: boltzmann machine
- translation: Boltzmann makinesi
+- word: boltzmann machine
+  translation: Boltzmann makinesi
  
- - word: broadcasting
- translation: yayımlama
+- word: broadcasting
+  translation: yayımlama
  
- - word: brute force
- translation: kaba kuvvet
+- word: brute force
+  translation: kaba kuvvet
  
- - word: burn in
- translation: alıştırma
+- word: burn in
+  translation: alıştırma
  
- - word: calculus
- translation: analiz
+- word: calculus
+  translation: analiz
  
- - word: calculus of variations
- translation: değişim analizi
+- word: calculus of variations
+  translation: değişim analizi
  
- - word: cascade
- translation: aşamalı
+- word: cascade
+  translation: aşamalı
  
- - word: categorical distribution
- translation: kategorik dağılım
+- word: categorical distribution
+  translation: kategorik dağılım
  
- - word: centering trick
- translation: ortalama hilesi
+- word: centering trick
+  translation: ortalama hilesi
  
- - word: central limit theorem
- translation: merkezi limit teoremi
+- word: central limit theorem
+  translation: merkezi limit teoremi
  
- - word: chain rule
- translation: zincir kuralı
+- word: chain rule
+  translation: zincir kuralı
  
- - word: chain rule of productivity
- translation: olasılığın zincir kuralı
+- word: chain rule of productivity
+  translation: olasılığın zincir kuralı
  
- - word: chess
- translation: satranç
+- word: chess
+  translation: satranç
  
- - word: chord
- translation: kiriş
+- word: chord
+  translation: kiriş
  
- - word: chordal graph
- translation: kirişli çizge
+- word: chordal graph
+  translation: kirişli çizge
  
- - word: class-based language models
- translation: sınıf tabanlı dil modelleri
+- word: class-based language models
+  translation: sınıf tabanlı dil modelleri
  
- - word: classical dynamic system
- translation: klasik dinamik sistem
+- word: classical dynamic system
+  translation: klasik dinamik sistem
  
- - word: clique
- translation: klik
+- word: clique
+  translation: klik
  
- - word: clique potential
- translation: klik potansiyeli
+- word: clique potential
+  translation: klik potansiyeli
  
- - word: collaborative filtering
- translation: dayanışmalı filtreleme
+- word: collaborative filtering
+  translation: dayanışmalı filtreleme
  
- - word: collider
- translation: çarpıştırıcı
+- word: collider
+  translation: çarpıştırıcı
  
- - word: color images
- translation: renkli görüntüler
+- word: color images
+  translation: renkli görüntüler
  
- - word: complex cell
- translation: karmaşık hücre
+- word: complex cell
+  translation: karmaşık hücre
  
- - word: computational graph
- translation: hesaplamalı çizge
+- word: computational graph
+  translation: hesaplamalı çizge
  
- - word: computer vision
- translation: bilgisayarlı görü
+- word: computer vision
+  translation: bilgisayarlı görü
  
- - word: concept drift
- translation: kavram sapması
+- word: concept drift
+  translation: kavram sapması
  
- - word: condition number
- translation: matrisin sağlamlık sayısı
+- word: condition number
+  translation: matrisin sağlamlık sayısı
  
- - word: conditional computation
- translation: koşullu hesaplama
+- word: conditional computation
+  translation: koşullu hesaplama
  
- - word: conditional independence
- translation: koşullu bağımsızlık
+- word: conditional independence
+  translation: koşullu bağımsızlık
  
- - word: conditional probability
- translation: koşullu olasılık
+- word: conditional probability
+  translation: koşullu olasılık
  
- - word: conditional RBM
- translation: koşullu RBM
+- word: conditional RBM
+  translation: koşullu RBM
  
- - word: connectionism
- translation: bağlantıcılık
+- word: connectionism
+  translation: bağlantıcılık
  
- - word: connectionist temporal classification
- translation: bağlantıcı zamansal sınıflandırma
+- word: connectionist temporal classification
+  translation: bağlantıcı zamansal sınıflandırma
  
- - word: consistency
- translation: tutarlılık
+- word: consistency
+  translation: tutarlılık
  
- - word: constancy
- translation: sabitlik
+- word: constancy
+  translation: sabitlik
  
- - word: constrained optimization
- translation: kısıtlı eniyileme
+- word: constrained optimization
+  translation: kısıtlı eniyileme
  
- - word: content-based addressing
- translation: içerik-tabanlı adresleme
+- word: content-based addressing
+  translation: içerik-tabanlı adresleme
  
- - word: content-based recommender systems
- translation: içerik-tabanlı öneri sistemleri
+- word: content-based recommender systems
+  translation: içerik-tabanlı öneri sistemleri
  
- - word: context
- translation: bağlam
+- word: context
+  translation: bağlam
  
- - word: context specific independence
- translation: bağlama özgü bağımsızlık
+- word: context specific independence
+  translation: bağlama özgü bağımsızlık
  
- - word: contextual bandits
- translation: bağlamsal yol kesmeler
+- word: contextual bandits
+  translation: bağlamsal yol kesmeler
  
- - word: continuation methods
- translation: sürdürme yöntemleri
+- word: continuation methods
+  translation: sürdürme yöntemleri
  
- - word: continuous
- translation: sürekli
+- word: continuous
+  translation: sürekli
  
- - word: contractive autoencoder
- translation: daraltan otokodlayıcı
+- word: contractive autoencoder
+  translation: daraltan otokodlayıcı
  
- - word: contrast
- translation: karşıtlık
+- word: contrast
+  translation: karşıtlık
  
- - word: contrastive divergence
- translation: karşıtsal ıraksama
+- word: contrastive divergence
+  translation: karşıtsal ıraksama
  
- - word: convex optimization
- translation: dışbükey eniyileme
+- word: convex optimization
+  translation: dışbükey eniyileme
  
- - word: convolution
- translation: evrişim
+- word: convolution
+  translation: evrişim
  
- - word: convolutional network
- translation: evrişimsel ağ
+- word: convolutional network
+  translation: evrişimsel ağ
  
- - word: coordinate descent
- translation: koordinat inişi
+- word: coordinate descent
+  translation: koordinat inişi
  
- - word: coordinate ascent
- translation: koordinat çıkışı
+- word: coordinate ascent
+  translation: koordinat çıkışı
  
- - word: correlation 
- translation: korelasyon
+- word: correlation 
+  translation: korelasyon
   
- - word: cost function
- translation: maliyet fonksiyonu
+- word: cost function
+  translation: maliyet fonksiyonu
  
- - word: covariance
- translation: eşdeğişirlik
+- word: covariance
+  translation: eşdeğişirlik
  
- - word: covariance matrix
- translation: eşdeğişirlik matrisi
+- word: covariance matrix
+  translation: eşdeğişirlik matrisi
  
- - word: coverage
- translation: kapsama
+- word: coverage
+  translation: kapsama
  
- - word: critical temperature
- translation: kritik sıcaklık
+- word: critical temperature
+  translation: kritik sıcaklık
  
- - word: cross-correlation
- translation: çapraz korelasyon
+- word: cross-correlation
+  translation: çapraz korelasyon
  
- - word: cross-entropy
- translation: çapraz entropi
+- word: cross-entropy
+  translation: çapraz entropi
  
- - word: cross-validation
- translation: çapraz sağlama
+- word: cross-validation
+  translation: çapraz sağlama
  
- - word: curriculum learning
- translation: müfredat öğrenme
+- word: curriculum learning
+  translation: müfredat öğrenme
  
- - word: curse of dimensionality
- translation: boyut laneti
+- word: curse of dimensionality
+  translation: boyut laneti
  
- - word: d-seperation
- translation: d-ayırma
+- word: d-seperation
+  translation: d-ayırma
  
- - word: damping
- translation: söndürme
+- word: damping
+  translation: söndürme
  
- - word: data generating distribution
- translation: veri üretim dağılımı
+- word: data generating distribution
+  translation: veri üretim dağılımı
  
- - word: data generating process
- translation: veri üretim işlemi
+- word: data generating process
+  translation: veri üretim işlemi
  
-  - word: data parallelism
- translation: veri paralelleştirme
+- word: data parallelism
+  translation: veri paralelleştirme
  
-   - word: dataset
- translation: veri kümesi
+- word: dataset
+  translation: veri kümesi
  
-   - word: dataset augmentation
- translation: veri kümesi çeşitleme
+- word: dataset augmentation
+  translation: veri kümesi çeşitleme
  
-   - word: debugging
- translation: hata ayıklama
+- word: debugging
+  translation: hata ayıklama
  
-   - word: decision tree
- translation: karar ağacı
+- word: decision tree
+  translation: karar ağacı
  
-   - word: decoder
- translation: kodçözücü
+- word: decoder
+  translation: kodçözücü
  
-   - word: deep belief network
- translation: derin inanç ağı
+- word: deep belief network
+  translation: derin inanç ağı
  
-   - word: deep Boltzmann machine
- translation: derin Boltzmann makinesi
+- word: deep Boltzmann machine
+  translation: derin Boltzmann makinesi
  
-   - word: deep feedforward network
- translation: derin ileri besleme ağı
+- word: deep feedforward network
+  translation: derin ileri besleme ağı
  
-   - word: deep learning
- translation: derin öğrenme
+- word: deep learning
+  translation: derin öğrenme
  
-   - word: degenerate
- translation: yozlaşmış
+- word: degenerate
+  translation: yozlaşmış
  
-   - word: denoising autoencoder
- translation: arıtan otokodlayıcı
+- word: denoising autoencoder
+  translation: arıtan otokodlayıcı
  
-   - word: denoising score matchining
- translation: arıtan skor eşleştirme
+- word: denoising score matchining
+  translation: arıtan skor eşleştirme
  
-   - word: density estimation
- translation: yoğunluk kestirimi
+- word: density estimation
+  translation: yoğunluk kestirimi
  
-   - word: derivative
- translation: türev
+- word: derivative
+  translation: türev
  
-   - word: design matrix
- translation: açıklayıcı değişkenler matrisi
+- word: design matrix
+  translation: açıklayıcı değişkenler matrisi
  
-   - word: detector layer
- translation: dedektör katman
+- word: detector layer
+  translation: dedektör katman
  
-   - word: diagonal matrix
- translation: köşegen matris
+- word: diagonal matrix
+  translation: köşegen matris
  
-   - word: differemtial entropy
- translation: diferansiyel entropi
+- word: differemtial entropy
+  translation: diferansiyel entropi
  
-   - word: Dirac delta function
- translation: Dirac delta fonksiyonu
+- word: Dirac delta function
+  translation: Dirac delta fonksiyonu
  
-   - word: directed acyclic graph
- translation: yönlü çevrimsiz çizgesel
+- word: directed acyclic graph
+  translation: yönlü çevrimsiz çizgesel
   
-   - word: directed graph model
- translation: yönlü çizgesel model
+- word: directed graph model
+  translation: yönlü çizgesel model
  
-   - word: directional derivative
- translation: yönlü türev
+- word: directional derivative
+  translation: yönlü türev
  
-   - word: discriminative fine-tuning
- translation: ayrımcı hassas ayar
+- word: discriminative fine-tuning
+  translation: ayrımcı hassas ayar
  
-   - word: discriminative RBM
- translation: ayrımcı RBM
+- word: discriminative RBM
+  translation: ayrımcı RBM
   
-   - word: distributed representation
- translation: dağınık gösterim
+- word: distributed representation
+  translation: dağınık gösterim
  
-   - word: domain adaptation
- translation: alan uyarlama
+- word: domain adaptation
+  translation: alan uyarlama
  
-   - word: dot product
- translation: iç çarpım
+- word: dot product
+  translation: iç çarpım
  
-   - word: double backprop
- translation: çift geri yayılım
+- word: double backprop
+  translation: çift geri yayılım
   
-   - word: doubly block circulant matrix
- translation: çif bloklu dairesel matris
+- word: doubly block circulant matrix
+  translation: çif bloklu dairesel matris
  
-   - word: dream sleep
- translation: rüya uykusu
+- word: dream sleep
+  translation: rüya uykusu
  
-   - word: dropconnect
- translation: bağ sönümü
+- word: dropconnect
+  translation: bağ sönümü
  
-   - word: dropout
- translation: iletim sönümü
+- word: dropout
+  translation: iletim sönümü
   
-   - word: dynamic structure
- translation: dinamik yapı
+- word: dynamic structure
+  translation: dinamik yapı
  
-   - word: e-step
- translation: e-adım
+- word: e-step
+  translation: e-adım
  
-   - word: early stopping
- translation: erken durdurma
+- word: early stopping
+  translation: erken durdurma
  
-   - word: echo state network
- translation: yankı durum ağı
+- word: echo state network
+  translation: yankı durum ağı
   
-   - word: effective capacity
- translation: etkin kapasite
+- word: effective capacity
+  translation: etkin kapasite
  
-   - word: eigendecomposition
- translation: özayrışma
+- word: eigendecomposition
+  translation: özayrışma
  
-   - word: eigenvalue
- translation: özdeğer
+- word: eigenvalue
+  translation: özdeğer
  
-   - word: eigenvector
- translation: özvektör
+- word: eigenvector
+  translation: özvektör
   
-   - word: elementwise product
- translation: eleman çarpımı
+- word: elementwise product
+  translation: eleman çarpımı
  
-   - word: embedding
- translation: gömülme
+- word: embedding
+  translation: gömülme
  
-   - word: empirical distribution
- translation: deneysel dağılım
+- word: empirical distribution
+  translation: deneysel dağılım
  
-   - word: emprical risk
- translation: deneysel risk
+- word: emprical risk
+  translation: deneysel risk
  
-   - word: emprical risk minimization
- translation: deneysel risk enküçültmesi
+- word: emprical risk minimization
+  translation: deneysel risk enküçültmesi
  
-   - word: encoder
- translation: kodlayıcı
+- word: encoder
+  translation: kodlayıcı
  
-   - word: energy function
- translation: enerji fonksiyonu
+- word: energy function
+  translation: enerji fonksiyonu
  
-   - word: energy-based model
- translation: enerji tabanlı model
+- word: energy-based model
+  translation: enerji tabanlı model
   
-   - word: enhanced gradient
- translation: gelişmiş gradyan
+- word: enhanced gradient
+  translation: gelişmiş gradyan
  
-   - word: ensemble methods
- translation: topluluk yöntemleri
+- word: ensemble methods
+  translation: topluluk yöntemleri
  
-   - word: epoch
- translation: epok
+- word: epoch
+  translation: epok
  
-   - word: aquality constraint
- translation: eşitlik kısıtı
+- word: aquality constraint
+  translation: eşitlik kısıtı
   
-   - word: equivariance
- translation: eşit dağişirlik
+- word: equivariance
+  translation: eşit dağişirlik
  
-   - word: error function
- translation: hata fonksiyonu
+- word: error function
+  translation: hata fonksiyonu
  
-   - word: estimation
- translation: kestirim
+- word: estimation
+  translation: kestirim
  
-   - word: Euclidean norm
- translation: Euclid normu
+- word: Euclidean norm
+  translation: Euclid normu
   
-   - word: Euclidean space
- translation: Euclid uzayı
+- word: Euclidean space
+  translation: Euclid uzayı
  
-   - word: Euler-Lagrange equation
- translation: Euler-Lagrange eşitliği
+- word: Euler-Lagrange equation
+  translation: Euler-Lagrange eşitliği
  
-   - word: evidence lower bound
- translation: kanıt alt sınırı
+- word: evidence lower bound
+  translation: kanıt alt sınırı
  
-   - word: example
- translation: örnek
+- word: example
+  translation: örnek
   
-   - word: expectation
- translation: beklenti
+- word: expectation
+  translation: beklenti
  
-   - word: expectation maximization
- translation: beklenti enbüyütme
+- word: expectation maximization
+  translation: beklenti enbüyütme
  
-   - word: expected value
- translation: beklenti değeri
+- word: expected value
+  translation: beklenti değeri
  
-   - word: explaining away
- translation: savuşturma
+- word: explaining away
+  translation: savuşturma
   
-   - word: exploitation
- translation: faydalanma
+- word: exploitation
+  translation: faydalanma
  
-   - word: exploration
- translation: keşif
+- word: exploration
+  translation: keşif
  
-   - word: exponential
- translation: üstel
+- word: exponential
+  translation: üstel
  
-   - word: exponential distribution
- translation: üstel dağılım
+- word: exponential distribution
+  translation: üstel dağılım
   
-   - word: f-score
- translation: f-skor
+- word: f-score
+  translation: f-skor
  
-   - word: factorial
- translation: çarpınım
+- word: factorial
+  translation: çarpınım
  
-   - word: factor analysis
- translation: faktör analizi
+- word: factor analysis
+  translation: faktör analizi
  
-   - word: factor graph
- translation: faktörler çizgesi
+- word: factor graph
+  translation: faktörler çizgesi
   
-   - word: factors of variation
- translation: değişirlik faktörleri
+- word: factors of variation
+  translation: değişirlik faktörleri
  
-   - word: feature selection
- translation: öznitelik seçme
+- word: feature selection
+  translation: öznitelik seçme
  
-   - word: feedforward neural network
- translation: ileri beslemeli sinir ağı
+- word: feedforward neural network
+  translation: ileri beslemeli sinir ağı
  
-   - word: fine-tuning
- translation: hassas ayar
+- word: fine-tuning
+  translation: hassas ayar
   
-   - word: finite differences
- translation: sonlu farklar
+- word: finite differences
+  translation: sonlu farklar
  
-   - word: forget gate
- translation: unutma kapısı
+- word: forget gate
+  translation: unutma kapısı
  
-   - word: forward propagation
- translation: ileri yayılım
+- word: forward propagation
+  translation: ileri yayılım
  
-   - word: Fourier transform
- translation: Fourier dönüşümü
+- word: Fourier transform
+  translation: Fourier dönüşümü
   
-   - word: foveation
- translation: foveasyon
+- word: foveation
+  translation: foveasyon
  
-   - word: free energy
- translation: serbest enerji
+- word: free energy
+  translation: serbest enerji
  
-   - word: frequency
- translation: frekans
+- word: frequency
+  translation: frekans
  
-   - word: frequentist probability
- translation: deneysel olasılık
+- word: frequentist probability
+  translation: deneysel olasılık
   
-   - word: frequentist statistics
- translation: deneysel istatistik
+- word: frequentist statistics
+  translation: deneysel istatistik
  
-   - word: Frobenius norm
- translation: Frobenius normu
+- word: Frobenius norm
+  translation: Frobenius normu
  
-   - word: fully visible Bayes network
- translation: tamamen görünür Bayes ağı
+- word: fully visible Bayes network
+  translation: tamamen görünür Bayes ağı
  
-   - word: function
- translation: fonksiyon
+- word: function
+  translation: fonksiyon
   
-   - word: functional derivatives
- translation: fonksiyonel türevler
+- word: functional derivatives
+  translation: fonksiyonel türevler
  
-   - word: Gabor function
- translation: Gabor fonksiyonu
+- word: Gabor function
+  translation: Gabor fonksiyonu
  
-   - word: gated recurrent unit
- translation: kapılı yinelemeli ünite
+- word: gated recurrent unit
+  translation: kapılı yinelemeli ünite
  
-   - word: Gaussian distribution
- translation: Gauss dağılımı
+- word: Gaussian distribution
+  translation: Gauss dağılımı
   
-   - word: Gaussian kernel
- translation: Gauss kerneli
+- word: Gaussian kernel
+  translation: Gauss kerneli
  
-   - word: Gaussian mixture
- translation: Gauss karışımı
+- word: Gaussian mixture
+  translation: Gauss karışımı
  
-   - word: generalization
- translation: genelleştirme
+- word: generalization
+  translation: genelleştirme
  
-   - word: generalized Lagrange function
- translation: genelleştirilmiş Lagrange fonksiyonu
+- word: generalized Lagrange function
+  translation: genelleştirilmiş Lagrange fonksiyonu
   
-   - word: generalized lagrange 
- translation: genelleştirilmiş Lagrange
+- word: generalized lagrange 
+  translation: genelleştirilmiş Lagrange
  
-   - word: generative adversarial networks
- translation: üretken çekişmeli ağlar
+- word: generative adversarial networks
+  translation: üretken çekişmeli ağlar
  
-   - word: generative moment matching networks
- translation: üretken moment eşleyen ağlar
+- word: generative moment matching networks
+  translation: üretken moment eşleyen ağlar
  
-   - word: generator network
- translation: üretici ağ
+- word: generator network
+  translation: üretici ağ
   
-   - word: Gibbs distribution
- translation: Gibbs dağılımı
+- word: Gibbs distribution
+  translation: Gibbs dağılımı
  
-   - word: Gibbs sampling
- translation: Gibbs örneklemesi
+- word: Gibbs sampling
+  translation: Gibbs örneklemesi
  
-   - word: global contrast normalization
- translation: global karşıt normalleştirme
+- word: global contrast normalization
+  translation: global karşıt normalleştirme
  
-   - word: GPU
- translation: grafik işlem birimi
+- word: GPU
+  translation: grafik işlem birimi
   
-   - word: gradient clipping 
- translation: gradyan kırpma
+- word: gradient clipping 
+  translation: gradyan kırpma
  
-   - word: gradient ascent
- translation: gradyan çıkışı
+- word: gradient ascent
+  translation: gradyan çıkışı
  
-   - word: graph
- translation: çizge
+- word: graph
+  translation: çizge
  
-   - word: graph embedding 
- translation: çizge gömülmesi
+- word: graph embedding 
+  translation: çizge gömülmesi
   
-   - word: graphical model
- translation: çizgesel model
+- word: graphical model
+  translation: çizgesel model
  
-   - word: graphics processing unit
- translation: grafik işleme birimi
+- word: graphics processing unit
+  translation: grafik işleme birimi
  
-   - word: graph theory
- translation: çizge kuramı
+- word: graph theory
+  translation: çizge kuramı
  
-   - word: greedy algorithm
- translation: hırslı algoritma
+- word: greedy algorithm
+  translation: hırslı algoritma
   
-   - word: greedy layer-wise unsupervised pretraining 
- translation: katmanların denetimsiz hırslı öneğitilmesi
+- word: greedy layer-wise unsupervised pretraining 
+  translation: katmanların denetimsiz hırslı öneğitilmesi
  
-   - word: greedy supervised pretraining
- translation: hırslı denetimli öneğitme
+- word: greedy supervised pretraining
+  translation: hırslı denetimli öneğitme
  
-   - word: grid search
- translation: ızgara arama
+- word: grid search
+  translation: ızgara arama
  
-   - word: Hadamard product
- translation: Hadamard çarpımı
+- word: Hadamard product
+  translation: Hadamard çarpımı
   
-   - word: harmonium
- translation: harmonyum
+- word: harmonium
+  translation: harmonyum
  
-   - word: harmony theory
- translation: harmoni kuramı
+- word: harmony theory
+  translation: harmoni kuramı
  
-   - word: Helmholtz free energy
- translation: Helmholtz serbest enerji
+- word: Helmholtz free energy
+  translation: Helmholtz serbest enerji
  
-   - word: Hessian matrix
- translation: Hesse matrisi
+- word: Hessian matrix
+  translation: Hesse matrisi
   
-   - word: heteroscedastic
- translation: ayrı değişirlikli
+- word: heteroscedastic
+  translation: ayrı değişirlikli
  
-   - word: hidden layer
- translation: gizli katman
+- word: hidden layer
+  translation: gizli katman
  
-   - word: hidden unit
- translation: gizli birim
+- word: hidden unit
+  translation: gizli birim
  
-   - word: hill climbing
- translation: tepe tırmanışı
+- word: hill climbing
+  translation: tepe tırmanışı
   
-   - word: hyperparameter optimization
- translation: hiperparametre eniyilemesi
+- word: hyperparameter optimization
+  translation: hiperparametre eniyilemesi
  
-   - word: hyperparameters
- translation: hiperparametreler
+- word: hyperparameters
+  translation: hiperparametreler
  
-   - word: hypothesis space
- translation: hipotez uzayı
+- word: hypothesis space
+  translation: hipotez uzayı
  
-   - word: i.i.d. assumptions
- translation: i.i.d. varsayımları
+- word: i.i.d. assumptions
+  translation: i.i.d. varsayımları
   
-   - word: identity matrix
- translation: birim matris
+- word: identity matrix
+  translation: birim matris
  
-   - word: image
- translation: görüntü
+- word: image
+  translation: görüntü
  
-   - word: ImageNet Large Scale Visual Recognition Challange
- translation: Imagenet Geniş Ölçekli Tanıma Yarışması
+- word: ImageNet Large Scale Visual Recognition Challange
+  translation: Imagenet Geniş Ölçekli Tanıma Yarışması
  
-   - word: immorality
- translation: aykırılık
+- word: immorality
+  translation: aykırılık
   
-   - word: implementation
- translation: gerçekleştirme
+- word: implementation
+  translation: gerçekleştirme
  
-   - word: importance sampling
- translation: önem örnekleme
+- word: importance sampling
+  translation: önem örnekleme
  
-   - word: importance waighted autoencoder
- translation: önem ağırlıklı otokodlayıcı
+- word: importance waighted autoencoder
+  translation: önem ağırlıklı otokodlayıcı
  
-   - word: independence
- translation: bağımsızlık
+- word: independence
+  translation: bağımsızlık
   
-   - word: independent and identically distributed
- translation: bağımsız özdeşçe dağılmış
+- word: independent and identically distributed
+  translation: bağımsız özdeşçe dağılmış
  
-   - word: independent component analysis
- translation: bağımsız bileşenler analizi
+- word: independent component analysis
+  translation: bağımsız bileşenler analizi
  
-   - word: independent subspace analysis
- translation: bağımsız altuzaylar analizi
+- word: independent subspace analysis
+  translation: bağımsız altuzaylar analizi
  
-   - word: inequality constraint
- translation: eşitsizlik kısıtı
+- word: inequality constraint
+  translation: eşitsizlik kısıtı
   
-   - word: inference
- translation: çıkarım, çıkarsama
+- word: inference
+  translation: çıkarım, çıkarsama
  
-   - word: intercept
- translation: kesim noktası
+- word: intercept
+  translation: kesim noktası
  
-   - word: inferotemporal cortex
- translation: şakak altı korteksi
+- word: inferotemporal cortex
+  translation: şakak altı korteksi
  
-   - word: information retrieval
- translation: bilgi getirimi
+- word: information retrieval
+  translation: bilgi getirimi
   
-   - word: initialization
- translation: ilk değer atama
+- word: initialization
+  translation: ilk değer atama
  
-   - word: interpolate
- translation: aradeğeri bulmak
+- word: interpolate
+  translation: aradeğeri bulmak
  
-   - word: intractable
- translation: kolay çözümlenemez
+- word: intractable
+  translation: kolay çözümlenemez
  
-   - word: invariance
- translation: değişmezlik
+- word: invariance
+  translation: değişmezlik
   
-   - word: isotropic
- translation: izotrop
+- word: isotropic
+  translation: izotrop
  
-   - word: Jacobian matrix
- translation: Jacob matrisi
+- word: Jacobian matrix
+  translation: Jacob matrisi
  
-   - word: joint probability
- translation: ortak olasılık
+- word: joint probability
+  translation: ortak olasılık
  
-   - word: k-means
- translation: k-ortalama
+- word: k-means
+  translation: k-ortalama
   
-   - word: k-nearest neighbor
- translation: k-en yakın konşu
+- word: k-nearest neighbor
+  translation: k-en yakın konşu
  
-   - word: Karush-Kuhn-Tucker conditions
- translation: Karush-Kuhn-Tucker koşulları
+- word: Karush-Kuhn-Tucker conditions
+  translation: Karush-Kuhn-Tucker koşulları
  
-   - word: kernel machine
- translation: kernel makinesi
+- word: kernel machine
+  translation: kernel makinesi
  
-   - word: kernel trick
- translation: kernel hilesi
+- word: kernel trick
+  translation: kernel hilesi
   
-   - word: KKT conditions
- translation: KKT koşulları
+- word: KKT conditions
+  translation: KKT koşulları
  
-   - word: KL divergence
- translation: KL ıraksaması
+- word: KL divergence
+  translation: KL ıraksaması
  
-   - word: knowledge base
- translation: işlenmiş bilgi tabanı
+- word: knowledge base
+  translation: işlenmiş bilgi tabanı
  
-   - word: Krylov merhods
- translation: Krylov yöntemleri
+- word: Krylov merhods
+  translation: Krylov yöntemleri
   
-   - word: Kullback-Leibler divergence
- translation: Kullback-Leibler ıraksaması
+- word: Kullback-Leibler divergence
+  translation: Kullback-Leibler ıraksaması
  
-   - word: label smoothing
- translation: etiket düzleştirme
+- word: label smoothing
+  translation: etiket düzleştirme
  
-   - word: ladder network
- translation: basamaklı ağ
+- word: ladder network
+  translation: basamaklı ağ
  
-   - word: Lagrange multipliers
- translation: Lagrange çarpanları
+- word: Lagrange multipliers
+  translation: Lagrange çarpanları
   
-   - word: Lagrangian
- translation: Lagrange fonksiyonu
+- word: Lagrangian
+  translation: Lagrange fonksiyonu
  
-   - word: laplace distribution
- translation: Laplace dağılımı
+- word: laplace distribution
+  translation: Laplace dağılımı
  
-   - word: latent
- translation: saklı
+- word: latent
+  translation: saklı
  
-   - word: latent variable
- translation: saklı değişken
+- word: latent variable
+  translation: saklı değişken
   
-   - word: layer
- translation: katman
+- word: layer
+  translation: katman
  
-   - word: leaky ReLU
- translation: sızıntılı ReLU
+- word: leaky ReLU
+  translation: sızıntılı ReLU
  
-   - word: leaky units
- translation: sızıntılı birimler
+- word: leaky units
+  translation: sızıntılı birimler
  
-   - word: learnin grate
- translation: öğrenme oranı
+- word: learnin grate
+  translation: öğrenme oranı
   
-   - word: likelihood
- translation: olablilirlik
+- word: likelihood
+  translation: olablilirlik
  
-   - word: line search
- translation: doğru üzerinde arama
+- word: line search
+  translation: doğru üzerinde arama
  
-   - word: linear combination
- translation: doğrusal bileşim
+- word: linear combination
+  translation: doğrusal bileşim
  
-   - word: linear dependence
- translation: doğrusal bağımlılık
+- word: linear dependence
+  translation: doğrusal bağımlılık
   
-   - word: linear factor model
- translation: doğrusal faktör modeli
+- word: linear factor model
+  translation: doğrusal faktör modeli
  
-   - word: linear regression
- translation: doğrusal bağlanım
+- word: linear regression
+  translation: doğrusal bağlanım
  
-   - word: link prediction
- translation: bağlantı öngörüsü
+- word: link prediction
+  translation: bağlantı öngörüsü
  
-   - word: Lipschitz constant
- translation: Lipschitz sabiti
+- word: Lipschitz constant
+  translation: Lipschitz sabiti
   
-   - word: Lipschitz continuous
- translation: Lipschitz süreklisi
+- word: Lipschitz continuous
+  translation: Lipschitz süreklisi
  
-   - word: liquid state machine
- translation: Likit durum makinesi
+- word: liquid state machine
+  translation: Likit durum makinesi
  
-   - word: local conditional probability distribution
- translation: yerel koşullu olasılık dağılımı
+- word: local conditional probability distribution
+  translation: yerel koşullu olasılık dağılımı
  
-   - word: local contrast normalization
- translation: yerel karşıtlık normalleştirmesi
+- word: local contrast normalization
+  translation: yerel karşıtlık normalleştirmesi
   
-   - word: logistic regression
- translation: lojistik bağlanım
+- word: logistic regression
+  translation: lojistik bağlanım
  
-   - word: logistic sigmoid
- translation: lojistik sigmoid
+- word: logistic sigmoid
+  translation: lojistik sigmoid
  
-   - word: long short-term memory
- translation: uzun ömürlü kısa-dönem belleği
+- word: long short-term memory
+  translation: uzun ömürlü kısa-dönem belleği
  
-   - word: look-up table
- translation: başvuru çizelgesi
+- word: look-up table
+  translation: başvuru çizelgesi
   
-   - word: loop
- translation: döngü
+- word: loop
+  translation: döngü
  
-   - word: loopy belief propagation
- translation: döngüsel inanç yayılımı
+- word: loopy belief propagation
+  translation: döngüsel inanç yayılımı
  
-   - word: loss function
- translation: kayıp fonksiyonu
+- word: loss function
+  translation: kayıp fonksiyonu
  
-   - word: m-step
- translation: m-adım
+- word: m-step
+  translation: m-adım
   
-   - word: machine learning
- translation: makine öğrenmesi
+- word: machine learning
+  translation: makine öğrenmesi
  
-   - word: machine translation
- translation: makine tercümesi
+- word: machine translation
+  translation: makine tercümesi
  
-   - word: main diagonal
- translation: ana köşegen
+- word: main diagonal
+  translation: ana köşegen
  
-   - word: manifold hypothesis
- translation: manifold hipotezi
+- word: manifold hypothesis
+  translation: manifold hipotezi
   
-   - word: manifold learning
- translation: manifold öğrenme
+- word: manifold learning
+  translation: manifold öğrenme
  
-   - word: manifold tangent classifier
- translation: manifold tanjant sınıflandırıcısı
+- word: manifold tangent classifier
+  translation: manifold tanjant sınıflandırıcısı
  
-   - word: MAP approximation
- translation: MAP yaklaştırması
+- word: MAP approximation
+  translation: MAP yaklaştırması
  
-   - word: marginal probability
- translation: marjinal olasılık
+- word: marginal probability
+  translation: marjinal olasılık
   
-   - word: Markov chain
- translation: Markov zinciri
+- word: Markov chain
+  translation: Markov zinciri
  
-   - word: Markov chain Monte Carlo
- translation: Markov zincirli Monte Carlo
+- word: Markov chain Monte Carlo
+  translation: Markov zincirli Monte Carlo
  
-   - word: Markov network
- translation: Markov ağı
+- word: Markov network
+  translation: Markov ağı
  
-   - word: Markov random field
- translation: Markov rastgele alanı
+- word: Markov random field
+  translation: Markov rastgele alanı
   
-   - word: matrix
- translation: matris
+- word: matrix
+  translation: matris
  
-   - word: matrix inverse
- translation: matris tersi
+- word: matrix inverse
+  translation: matris tersi
  
-   - word: matrix product
- translation: matris çarpımı
+- word: matrix product
+  translation: matris çarpımı
  
-   - word: max norm
- translation: en büyük norm
+- word: max norm
+  translation: en büyük norm
   
-   - word: max pooling
- translation: en büyük biriktirme
+- word: max pooling
+  translation: en büyük biriktirme
  
-   - word: maximize
- translation: enbüyütme
+- word: maximize
+  translation: enbüyütme
  
-   - word: maximum aposteriori
- translation: en büyük ardıl
+- word: maximum aposteriori
+  translation: en büyük ardıl
  
-   - word: maximum likelihood
- translation: en büyük olabilirlik
+- word: maximum likelihood
+  translation: en büyük olabilirlik
   
-   - word: maxout
- translation: büyük-çıktı
+- word: maxout
+  translation: büyük-çıktı
  
-   - word: mean field
- translation: orta alan
+- word: mean field
+  translation: orta alan
  
-   - word: mean squared error
- translation: ortalama karesel hata
+- word: mean squared error
+  translation: ortalama karesel hata
  
-   - word: measure theory
- translation: ölçme kuramı
+- word: measure theory
+  translation: ölçme kuramı
   
-   - word: measure zero
- translation: sıfır ölçüm
+- word: measure zero
+  translation: sıfır ölçüm
  
-   - word: medial temporal lobe
- translation: orta şakak lobu
+- word: medial temporal lobe
+  translation: orta şakak lobu
  
-   - word: memory network 
- translation: bellek ağı
+- word: memory network 
+  translation: bellek ağı
  
-   - word: method of steepst descent
- translation: en dik iniş yöntemi
+- word: method of steepst descent
+  translation: en dik iniş yöntemi
   
-   - word: minibatch
- translation: miniyığın
+- word: minibatch
+  translation: miniyığın
  
-   - word: minimize
- translation: enküçültme
+- word: minimize
+  translation: enküçültme
  
-   - word: missing inputs
- translation: eksik girdiler
+- word: missing inputs
+  translation: eksik girdiler
  
-   - word: mixing
- translation: karıştırma
+- word: mixing
+  translation: karıştırma
   
-   - word: mixture density networks
- translation: karma yoğunluk ağları
+- word: mixture density networks
+  translation: karma yoğunluk ağları
  
-   - word: mixture distribution
- translation: karma dağılımı
+- word: mixture distribution
+  translation: karma dağılımı
  
-   - word: mixture model
- translation: karma model
+- word: mixture model
+  translation: karma model
  
-   - word: mixture of experts
- translation: uzman karması
+- word: mixture of experts
+  translation: uzman karması
   
-   - word: model averaging
- translation: model ortalama
+- word: model averaging
+  translation: model ortalama
  
-   - word: model compression
- translation: model sıkıştırması
+- word: model compression
+  translation: model sıkıştırması
  
-   - word: model identifiability
- translation: model tanımlanabilirliği
+- word: model identifiability
+  translation: model tanımlanabilirliği
  
-   - word: model parallelism
- translation: model benzeşmesi
+- word: model parallelism
+  translation: model benzeşmesi
   
-   - word: moment matchining
- translation: momen eşleştirme
+- word: moment matchining
+  translation: momen eşleştirme
  
-   - word: Moore-Penrose pseudoinverse
- translation: Moore-Penrose tersimsisi
+- word: Moore-Penrose pseudoinverse
+  translation: Moore-Penrose tersimsisi
  
-   - word: moralized graph
- translation: düzeltilmiş çizge
+- word: moralized graph
+  translation: düzeltilmiş çizge
  
-   - word: multi-model learning
- translation: çok-doruklu öğrenme
+- word: multi-model learning
+  translation: çok-doruklu öğrenme
   
-   - word: multi-prediction DBM
- translation: çok-öngörülü DBM
+- word: multi-prediction DBM
+  translation: çok-öngörülü DBM
  
-   - word: multi-task learning
- translation: çoklu görev öğrenme
+- word: multi-task learning
+  translation: çoklu görev öğrenme
  
-   - word: multilayer perception
- translation: çok katmanlı algılama
+- word: multilayer perception
+  translation: çok katmanlı algılama
  
-   - word: multilayer perceptron
- translation: çok katmanlı perseptron
+- word: multilayer perceptron
+  translation: çok katmanlı perseptron
   
-   - word: multinomial distribution
- translation: çok terimli dağılım
+- word: multinomial distribution
+  translation: çok terimli dağılım
  
-   - word: multinoulli distribution
- translation: çoklu Bernoulli dağılımı
+- word: multinoulli distribution
+  translation: çoklu Bernoulli dağılımı
  
-   - word: naive Bayes
- translation: naif Bayes
+- word: naive Bayes
+  translation: naif Bayes
  
-   - word: naturel image
- translation: doğal görüntü
+- word: naturel image
+  translation: doğal görüntü
   
-   - word: naturel language processing
- translation: doğal dil işleme
+- word: naturel language processing
+  translation: doğal dil işleme
  
-   - word: nearest neightbor regression
- translation: en yakın komşu bağlanımı
+- word: nearest neightbor regression
+  translation: en yakın komşu bağlanımı
  
-   - word: negative definite
- translation: negatif tanımlı
+- word: negative definite
+  translation: negatif tanımlı
  
-   - word: negative phase
- translation: negatif faz
+- word: negative phase
+  translation: negatif faz
   
-   - word: Nesterov momentum
- translation: Nesterov momentum
+- word: Nesterov momentum
+  translation: Nesterov momentum
  
-   - word: Netflix Grand Prize 
- translation: Netflix Büyük Ödülü
+- word: Netflix Grand Prize 
+  translation: Netflix Büyük Ödülü
  
-   - word: neural language model
- translation: sinirsel dil modeli
+- word: neural language model
+  translation: sinirsel dil modeli
  
-   - word: neural network
- translation: sinir ağı
+- word: neural network
+  translation: sinir ağı
   
-   - word: neural turing machine 
- translation: sinirsel Turing Makinesi
+- word: neural turing machine 
+  translation: sinirsel Turing Makinesi
  
-   - word: neural machine translation 
- translation: sinirsel makine çevirisi
+- word: neural machine translation 
+  translation: sinirsel makine çevirisi
  
-   - word: neuroscience
- translation: sinirbilimi
+- word: neuroscience
+  translation: sinirbilimi
  
-   - word: Newton's method
- translation: Newton yöntemi
+- word: Newton's method
+  translation: Newton yöntemi
   
-   - word: no free lunch theorem
- translation: "bedavaya yemek yok" teoremi
+- word: no free lunch theorem
+  translation: bedavaya yemek yok teoremi
  
-   - word: noise-contrastive estimation
- translation: gürültüye karşıt kestirim
+- word: noise-contrastive estimation
+  translation: gürültüye karşıt kestirim
  
-   - word: nonlinear
- translation: eğrisel
+- word: nonlinear
+  translation: eğrisel
  
-   - word: nonlinearity
- translation: eğrisellik
+- word: nonlinearity
+  translation: eğrisellik
   
-   - word: nonparametric model
- translation: parametrik olmayan model
+- word: nonparametric model
+  translation: parametrik olmayan model
  
-   - word: normal equations
- translation: normal denklemler
+- word: normal equations
+  translation: normal denklemler
  
-   - word: normalized initialization
- translation: normalleştirilmiş ilk değer atama
+- word: normalized initialization
+  translation: normalleştirilmiş ilk değer atama
  
-   - word: numerical differentiation 
- translation: sayısal farklar 
+- word: numerical differentiation 
+  translation: sayısal farklar 
   
-   - word: object detection
- translation: nesne saptama
+- word: object detection
+  translation: nesne saptama
  
-   - word: object recognition
- translation: nesne tanıma
+- word: object recognition
+  translation: nesne tanıma
  
-   - word: objective fuction
- translation: amaç fonksiyonu
+- word: objective fuction
+  translation: amaç fonksiyonu
  
-   - word: one-hot represantation 
- translation: bir-elemanlı-bir olan vektör
+- word: one-hot represantation 
+  translation: bir-elemanlı-bir olan vektör
   
-   - word: one-shot learning
- translation: tek seferde öğrenme
+- word: one-shot learning
+  translation: tek seferde öğrenme
  
-   - word: operation
- translation: işlem
+- word: operation
+  translation: işlem
  
-   - word: optimization 
- translation: eniyileme
+- word: optimization 
+  translation: eniyileme
  
-   - word: orthodox statistics
- translation: Ortodoks istatistiği
+- word: orthodox statistics
+  translation: Ortodoks istatistiği
   
-   - word: orthogonal matching pursuit
- translation: ortogonal eşleştirme takibi
+- word: orthogonal matching pursuit
+  translation: ortogonal eşleştirme takibi
  
-   - word: orthogonal matrix
- translation: ortogonal matris
+- word: orthogonal matrix
+  translation: ortogonal matris
  
-   - word: orthogonality 
- translation: ortogonallik
+- word: orthogonality 
+  translation: ortogonallik
  
-   - word: output layer
- translation: çıktı katmanı
+- word: output layer
+  translation: çıktı katmanı
   
-   - word: padding 
- translation: doldurma
+- word: padding 
+  translation: doldurma
  
-   - word: parallel distributed processing
- translation: paralel dağıtık işleme
+- word: parallel distributed processing
+  translation: paralel dağıtık işleme
  
-   - word: parameter initialization
- translation: parametrelere ilk değer ataması
+- word: parameter initialization
+  translation: parametrelere ilk değer ataması
  
-   - word: parameter sharing
- translation: parametre paylaşımı
+- word: parameter sharing
+  translation: parametre paylaşımı
   
-   - word: parameter tying
- translation: parametre eşleme
+- word: parameter tying
+  translation: parametre eşleme
  
-   - word: parametric model
- translation: parametrik model
+- word: parametric model
+  translation: parametrik model
  
-   - word: parametric ReLU
- translation: parametrik ReLU
+- word: parametric ReLU
+  translation: parametrik ReLU
  
-   - word: parent 
- translation: üst
+- word: parent 
+  translation: üst
   
-   - word: parsing
- translation: Sözdizimsel ayrıştırma
+- word: parsing
+  translation: Sözdizimsel ayrıştırma
  
-   - word: partial derivative
- translation: kısmi türev
+- word: partial derivative
+  translation: kısmi türev
  
-   - word: partition function
- translation: bölüntü fonksiyonu
+- word: partition function
+  translation: bölüntü fonksiyonu
  
-   - word: perceptron 
- translation: perseptron
+- word: perceptron 
+  translation: perseptron
   
-   - word: persistent contrastive divergence
- translation: kalıcı karşıtsal ıraksama
+- word: persistent contrastive divergence
+  translation: kalıcı karşıtsal ıraksama
  
-   - word: perturbation analysis
- translation: pertürbasyon analizi
+- word: perturbation analysis
+  translation: pertürbasyon analizi
  
-   - word: point estimator
- translation: nokta kestiricisi
+- word: point estimator
+  translation: nokta kestiricisi
  
-   - word: policy 
- translation: politika
+- word: policy 
+  translation: politika
   
-   - word: pooling
- translation: biriktirme
+- word: pooling
+  translation: biriktirme
  
-   - word: positive definite
- translation: pozitif tanımlı
+- word: positive definite
+  translation: pozitif tanımlı
  
-   - word: pozitive phase
- translation: pozitif faz
+- word: pozitive phase
+  translation: pozitif faz
  
-   - word: posterior 
- translation: ardıl
+- word: posterior 
+  translation: ardıl
   
-   - word: posterior probability
- translation: ardıl olasılık
+- word: posterior probability
+  translation: ardıl olasılık
  
-   - word: posterior distribution
- translation: ardıl dağılım
+- word: posterior distribution
+  translation: ardıl dağılım
  
-   - word: precision
- translation: kesinlik
+- word: precision
+  translation: kesinlik
  
-   - word: predictive sparse decomposition
- translation: öngörüsel seyrek ayrışım
+- word: predictive sparse decomposition
+  translation: öngörüsel seyrek ayrışım
   
-   - word: preprocessing
- translation: önişleme
+- word: preprocessing
+  translation: önişleme
  
-   - word: presentation
- translation: sunum
+- word: presentation
+  translation: sunum
  
-   - word: pretraining
- translation: öneğitme
+- word: pretraining
+  translation: öneğitme
  
-   - word: primary visual cortex
- translation: birincil görsel korteks
+- word: primary visual cortex
+  translation: birincil görsel korteks
   
-   - word: principal compenent analysis
- translation: ana bileşenler analizi
+- word: principal compenent analysis
+  translation: ana bileşenler analizi
  
-   - word: prior
- translation: öncül
+- word: prior
+  translation: öncül
  
-   - word: prior probability 
- translation: öncül olasılık
+- word: prior probability 
+  translation: öncül olasılık
  
-   - word: prior probability distribution
- translation: öncül olasılık dağılımı
+- word: prior probability distribution
+  translation: öncül olasılık dağılımı
   
-   - word: probabilistic PCA
- translation: olasılıksal PCA
+- word: probabilistic PCA
+  translation: olasılıksal PCA
  
-   - word: probabilistic model
- translation: olasılıksal model
+- word: probabilistic model
+  translation: olasılıksal model
  
-   - word: probability density function
- translation: olasılık yoğunluk fonksiyonu
+- word: probability density function
+  translation: olasılık yoğunluk fonksiyonu
  
-   - word: probability distribution
- translation: olasılık dağılımı
+- word: probability distribution
+  translation: olasılık dağılımı
   
-   - word: probability mass function
- translation: olasılık kütle fonksiyonu
+- word: probability mass function
+  translation: olasılık kütle fonksiyonu
  
-   - word: probability mass function estimation
- translation: olasılık kütle fonksiyonu kestirimi
+- word: probability mass function estimation
+  translation: olasılık kütle fonksiyonu kestirimi
  
-   - word: product of experts
- translation: uzman çarpımı
+- word: product of experts
+  translation: uzman çarpımı
  
-   - word: product rule of probability
- translation: olasılığın çarpım kuralı
+- word: product rule of probability
+  translation: olasılığın çarpım kuralı
   
-   - word: pseudolikelihood
- translation: yarı benzerlik
+- word: pseudolikelihood
+  translation: yarı benzerlik
  
-   - word: quadrature pair
- translation: dört evreli çift
+- word: quadrature pair
+  translation: dört evreli çift
  
-   - word: quasi-Newton methods
- translation: Newton-vari yöntemler
+- word: quasi-Newton methods
+  translation: Newton-vari yöntemler
  
-   - word: radial basis function
- translation: dairesel baz fonksiyonu
+- word: radial basis function
+  translation: dairesel baz fonksiyonu
   
-   - word: random search
- translation: rastgele arama
+- word: random search
+  translation: rastgele arama
  
-   - word: random variable
- translation: rastgele değişken
+- word: random variable
+  translation: rastgele değişken
  
-   - word: ratio matching
- translation: oran eşleştirme
+- word: ratio matching
+  translation: oran eşleştirme
  
-   - word: recall
- translation: duyarlılık
+- word: recall
+  translation: duyarlılık
   
-   - word: receptive field
- translation: alım alanı
+- word: receptive field
+  translation: alım alanı
  
-   - word: recommender systems
- translation: önerici sistemler
+- word: recommender systems
+  translation: önerici sistemler
  
-   - word: rectified linear unit
- translation: düzeltilmiş doğrusal birim
+- word: rectified linear unit
+  translation: düzeltilmiş doğrusal birim
  
-   - word: recurrent network
- translation: yinelemeli ağ
+- word: recurrent network
+  translation: yinelemeli ağ
   
-   - word: recurrent neural network
- translation: yinelemeli sinir ağı
+- word: recurrent neural network
+  translation: yinelemeli sinir ağı
  
-   - word: regression
- translation: bağlanım
+- word: regression
+  translation: bağlanım
  
-   - word: regularization
- translation: düzenlileştirme
+- word: regularization
+  translation: düzenlileştirme
  
-   - word: regularizer
- translation: düzenlileştirici
+- word: regularizer
+  translation: düzenlileştirici
   
-   - word: reinforcement learning
- translation: pekiştirmeli öğrenme
+- word: reinforcement learning
+  translation: pekiştirmeli öğrenme
  
-   - word: relational database
- translation: ilişkisel veri tabanı
+- word: relational database
+  translation: ilişkisel veri tabanı
  
-   - word: relations
- translation: bağıntılar
+- word: relations
+  translation: bağıntılar
  
-   - word: reparametrization trick
- translation: yeniden parametreleştirme hilesi
+- word: reparametrization trick
+  translation: yeniden parametreleştirme hilesi
   
-   - word: representation
- translation: gösterim
+- word: representation
+  translation: gösterim
  
-   - word: representation learning 
- translation: gösterim öğrenme
+- word: representation learning 
+  translation: gösterim öğrenme
  
-   - word: representational capacity
- translation: gösterimsel kapasite
+- word: representational capacity
+  translation: gösterimsel kapasite
  
-   - word: restricted Boltzmann machine
- translation: kısıtlandırılmış Boltzmann makinesi
+- word: restricted Boltzmann machine
+  translation: kısıtlandırılmış Boltzmann makinesi
   
-   - word: Ridge regression
- translation: Ridge bağlanımı
+- word: Ridge regression
+  translation: Ridge bağlanımı
  
-   - word: saddle points
- translation: eyer noktaları
+- word: saddle points
+  translation: eyer noktaları
  
-   - word: sample mean
- translation: örnekleme ortalaması
+- word: sample mean
+  translation: örnekleme ortalaması
  
-   - word: scalar
- translation: skaler
+- word: scalar
+  translation: skaler
   
-   - word: score matchining
- translation: skor eşleştirme
+- word: score matchining
+  translation: skor eşleştirme
  
-   - word: second derivative
- translation: ikinci türev
+- word: second derivative
+  translation: ikinci türev
  
-   - word: second derivative test
- translation: ikinci türev testi
+- word: second derivative test
+  translation: ikinci türev testi
  
-   - word: self-information
- translation: özbilgi
+- word: self-information
+  translation: özbilgi
   
-   - word: semantic hashing
- translation: anlamsal adresleme
+- word: semantic hashing
+  translation: anlamsal adresleme
  
-   - word: semi-supervised learning
- translation: yarı denetimli öğrenme
+- word: semi-supervised learning
+  translation: yarı denetimli öğrenme
  
-   - word: separable convolution
- translation: ayrılabilir evrişim
+- word: separable convolution
+  translation: ayrılabilir evrişim
  
-   - word: separation
- translation: ayırma
+- word: separation
+  translation: ayırma
   
-   - word: sequence
- translation: sıra (sıralı dizi)
+- word: sequence
+  translation: sıra (sıralı dizi)
  
-   - word: set
- translation: küme
+- word: set
+  translation: küme
  
-   - word: Shannon entropy
- translation: Shannon entropisi
+- word: Shannon entropy
+  translation: Shannon entropisi
  
-   - word: sigmoid belief network
- translation: sigmoid inanç ağı
+- word: sigmoid belief network
+  translation: sigmoid inanç ağı
   
-   - word: simple cell
- translation: yalın hücre
+- word: simple cell
+  translation: yalın hücre
  
-   - word: simultaneous
- translation: eşzamanlı
+- word: simultaneous
+  translation: eşzamanlı
  
-   - word: singular value
- translation: tekil değer
+- word: singular value
+  translation: tekil değer
  
-   - word: singular value decomposition
- translation: tekil değer ayrışımı
+- word: singular value decomposition
+  translation: tekil değer ayrışımı
   
-   - word: singular vector 
- translation: tekil vektör
+- word: singular vector 
+  translation: tekil vektör
  
-   - word: slow feature analysis
- translation: yavaş öznitelik analizi
+- word: slow feature analysis
+  translation: yavaş öznitelik analizi
  
-   - word: smoothness
- translation: prüzsüzlük
+- word: smoothness
+  translation: prüzsüzlük
  
-   - word: spam detection
- translation: spam saptama
+- word: spam detection
+  translation: spam saptama
   
-   - word: sparse coding 
- translation: seyrek kodlama
+- word: sparse coding 
+  translation: seyrek kodlama
  
-   - word: spike and slab sparse coding
- translation: sivri ve kalın seyrek kodlama
+- word: spike and slab sparse coding
+  translation: sivri ve kalın seyrek kodlama
  
-   - word: sparse initialization
- translation: seyrek ilk değer atama
+- word: sparse initialization
+  translation: seyrek ilk değer atama
  
-   - word: sparse represantation
- translation: seyrek gösterim
+- word: sparse represantation
+  translation: seyrek gösterim
   
-   - word: spectral radius
- translation: spektral yarıçap
+- word: spectral radius
+  translation: spektral yarıçap
  
-   - word: speech recognition
- translation: konuşma tanıma
+- word: speech recognition
+  translation: konuşma tanıma
  
-   - word: sphering
- translation: küre şeklini verme
+- word: sphering
+  translation: küre şeklini verme
  
-   - word: square matrix
- translation: kare matris
+- word: square matrix
+  translation: kare matris
   
-   - word: standard deviation 
- translation: standart sapma
+- word: standard deviation 
+  translation: standart sapma
  
-   - word: standard error
- translation: standart hata
+- word: standard error
+  translation: standart hata
  
-   - word: standard error of the mean
- translation: ortalamanın standart hatası
+- word: standard error of the mean
+  translation: ortalamanın standart hatası
  
-   - word: statistic
- translation: istatistik
+- word: statistic
+  translation: istatistik
   
-   - word: statistical learning theory
- translation: istatiksel öğrenme kuralı
+- word: statistical learning theory
+  translation: istatiksel öğrenme kuralı
  
-   - word: steepest descent
- translation: en dik iniş yöntemi
+- word: steepest descent
+  translation: en dik iniş yöntemi
  
-   - word: stochastic back-propagation
- translation: stokastik geri yayılım
+- word: stochastic back-propagation
+  translation: stokastik geri yayılım
  
-   - word: stochastic gradient ascent
- translation: stokastik gradyan çıkışı
+- word: stochastic gradient ascent
+  translation: stokastik gradyan çıkışı
   
-   - word: stochastic gradient descent
- translation: stokastik gradyan inişi
+- word: stochastic gradient descent
+  translation: stokastik gradyan inişi
  
-   - word: stochastic maximum likelihood
- translation: stokastik en büyük olabilirlik
+- word: stochastic maximum likelihood
+  translation: stokastik en büyük olabilirlik
  
-   - word: stochastic pooling 
- translation: stokastik biriktirme
+- word: stochastic pooling 
+  translation: stokastik biriktirme
  
-   - word: structure learning
- translation: yapısal öğrenme
+- word: structure learning
+  translation: yapısal öğrenme
   
-   - word: structured output
- translation: yapılandırılmış çıktı
+- word: structured output
+  translation: yapılandırılmış çıktı
  
-   - word: structured probabilistic model
- translation: yapılandırılmış olasılık modeli
+- word: structured probabilistic model
+  translation: yapılandırılmış olasılık modeli
  
-   - word: sum rule of probability
- translation: olasılığın toplam kuralı
+- word: sum rule of probability
+  translation: olasılığın toplam kuralı
  
-   - word: sum product network
- translation: toplam-çarpım ağı
+- word: sum product network
+  translation: toplam-çarpım ağı
   
-   - word: supervised
- translation: denetimli
+- word: supervised
+  translation: denetimli
  
-   - word: supervised fine-tuning
- translation: denetimli hassas ayar
+- word: supervised fine-tuning
+  translation: denetimli hassas ayar
  
-   - word: supervised learning 
- translation: denetimli öğrenme
+- word: supervised learning 
+  translation: denetimli öğrenme
  
-   - word: support vector machine
- translation: destek vektör makinesi
+- word: support vector machine
+  translation: destek vektör makinesi
   
-   - word: symmetric matrix
- translation: simetrik matris
+- word: symmetric matrix
+  translation: simetrik matris
  
-   - word: synchronize
- translation: senkron
+- word: synchronize
+  translation: senkron
  
-   - word: tangent distance
- translation: tanjant mesafesi
+- word: tangent distance
+  translation: tanjant mesafesi
  
-   - word: tangent plane
- translation: tanjant düzlemi
+- word: tangent plane
+  translation: tanjant düzlemi
   
-   - word: tangent prop
- translation: tanjant yayılımı
+- word: tangent prop
+  translation: tanjant yayılımı
  
-   - word: teacher forcing
- translation: öğretmen zoru
+- word: teacher forcing
+  translation: öğretmen zoru
  
-   - word: tempering
- translation: kızdırma
+- word: tempering
+  translation: kızdırma
  
-   - word: template matching
- translation: şablon eşleştirme
+- word: template matching
+  translation: şablon eşleştirme
   
-   - word: tensor
- translation: tensör
+- word: tensor
+  translation: tensör
  
-   - word: test set
- translation: test kümesi
+- word: test set
+  translation: test kümesi
  
-   - word: Tikhonov regularization
- translation: Tikhnov düzenlileştirmesi
+- word: Tikhonov regularization
+  translation: Tikhnov düzenlileştirmesi
  
-   - word: tiled convolution
- translation: döşeli evrişim
+- word: tiled convolution
+  translation: döşeli evrişim
   
-   - word: time-delay neural network
- translation: zaman-gecikmeli sinir ağı
+- word: time-delay neural network
+  translation: zaman-gecikmeli sinir ağı
  
-   - word: Toeplitz matrix
- translation: Teoplitz matrisi
+- word: Toeplitz matrix
+  translation: Teoplitz matrisi
  
-   - word: topographic ICA
- translation: topografik ICA
+- word: topographic ICA
+  translation: topografik ICA
  
-   - word: trace operator 
- translation: iz operatörü
+- word: trace operator 
+  translation: iz operatörü
   
-   - word: tractable
- translation: kolay çözümlenebilir
+- word: tractable
+  translation: kolay çözümlenebilir
  
-   - word: training 
- translation: eğitme
+- word: training 
+  translation: eğitme
  
-   - word: training error
- translation: eğitim hatası
+- word: training error
+  translation: eğitim hatası
  
-   - word: transcription
- translation: transkripsiyon
+- word: transcription
+  translation: transkripsiyon
   
-   - word: transer learning
- translation: aktarım öğrenme
+- word: transer learning
+  translation: aktarım öğrenme
  
-   - word: transpose
- translation: transpoz
+- word: transpose
+  translation: transpoz
  
-   - word: triangle inequality
- translation: üçgen eşitsizliği
+- word: triangle inequality
+  translation: üçgen eşitsizliği
  
-   - word: triangulated graph
- translation: üçgenlemeli çizge
+- word: triangulated graph
+  translation: üçgenlemeli çizge
   
-   - word: tuple
- translation: çokuzlu
+- word: tuple
+  translation: çokuzlu
  
-   - word: ubiased
- translation: önyargısız
+- word: ubiased
+  translation: önyargısız
  
-   - word: underdetermined
- translation: eksik belirtilmiş
+- word: underdetermined
+  translation: eksik belirtilmiş
  
-   - word: underflow
- translation: küçümenlik
+- word: underflow
+  translation: küçümenlik
   
-   - word: undirected graphical model
- translation: yönsüz çizgesel model
+- word: undirected graphical model
+  translation: yönsüz çizgesel model
  
-   - word: undirected model
- translation: yönsüz model
+- word: undirected model
+  translation: yönsüz model
  
-   - word: uniform distribution
- translation: düzgün dağılım
+- word: uniform distribution
+  translation: düzgün dağılım
  
-   - word: unimodal distribution
- translation: tek tepeli dağılım
+- word: unimodal distribution
+  translation: tek tepeli dağılım
   
-   - word: unit norm
- translation: birim norm
+- word: unit norm
+  translation: birim norm
  
-   - word: unit vector
- translation: birim vektör
+- word: unit vector
+  translation: birim vektör
  
-   - word: universal approximation theorem
- translation: evrensel yaklaşıklık teoremi
+- word: universal approximation theorem
+  translation: evrensel yaklaşıklık teoremi
  
-   - word: universal approximator
- translation: evrensel yakınlaştırıcı
+- word: universal approximator
+  translation: evrensel yakınlaştırıcı
   
-   - word: unnormalized probability distribution
- translation: normalleştirilmemiş olasılık dağılımı
+- word: unnormalized probability distribution
+  translation: normalleştirilmemiş olasılık dağılımı
  
-   - word: unpooling 
- translation: dağıtım
+- word: unpooling 
+  translation: dağıtım
  
-   - word: unsurpervised learning
- translation: denetimsiz öğrenme
+- word: unsurpervised learning
+  translation: denetimsiz öğrenme
  
-   - word: unsurpervised pretraining
- translation: denetimsiz öneğitme
+- word: unsurpervised pretraining
+  translation: denetimsiz öneğitme
   
-   - word: v-structure
- translation: v-yapısı
+- word: v-structure
+  translation: v-yapısı
  
-   - word: Vapnik-Chervonenkis dimension
- translation: Vapnik-Chervonenkis boyutu
+- word: Vapnik-Chervonenkis dimension
+  translation: Vapnik-Chervonenkis boyutu
  
-   - word: variable
- translation: değişken
+- word: variable
+  translation: değişken
  
-   - word: variance
- translation: değişirlik
+- word: variance
+  translation: değişirlik
   
-   - word: variational
- translation: değişimsel
+- word: variational
+  translation: değişimsel
  
-   - word: variational autoencoder
- translation: değişimsel otokodlayıcı
+- word: variational autoencoder
+  translation: değişimsel otokodlayıcı
  
-   - word: variational derivatives 
- translation: değişken türevler
+- word: variational derivatives 
+  translation: değişken türevler
  
-   - word: variational free energy
- translation: değişken serbest enerji
+- word: variational free energy
+  translation: değişken serbest enerji
   
-   - word: variational inference
- translation: değişimsel çıkarım
+- word: variational inference
+  translation: değişimsel çıkarım
  
-   - word: VC dimension
- translation: VC boyutu
+- word: VC dimension
+  translation: VC boyutu
  
-   - word: vector
- translation: vektör
+- word: vector
+  translation: vektör
  
-   - word: virtual adversarial examples
- translation: sanal çekişmeli örnekler
+- word: virtual adversarial examples
+  translation: sanal çekişmeli örnekler
   
-   - word: visible layer
- translation: görünür katman
+- word: visible layer
+  translation: görünür katman
  
-   - word: visible variable
- translation: görünür değişken
+- word: visible variable
+  translation: görünür değişken
  
-   - word: volumetric data
- translation: hacimsel veri
+- word: volumetric data
+  translation: hacimsel veri
  
-   - word: Wake-Sleep
- translation: Uyandırma-Uyutma
+- word: Wake-Sleep
+  translation: Uyandırma-Uyutma
   
-   - word: weight decay
- translation: ağırlık azalımı
+- word: weight decay
+  translation: ağırlık azalımı
  
-   - word: weight space symmetry
- translation: ağırlık uzayı simetrisi
+- word: weight space symmetry
+  translation: ağırlık uzayı simetrisi
  
-   - word: whitening 
- translation: beyazlaştırma
+- word: whitening 
+  translation: beyazlaştırma
  
-   - word: word embedding
- translation: kelime gömülmesi
+- word: word embedding
+  translation: kelime gömülmesi
   
-   - word: zero-data learning
- translation: verisiz öğrenme
+- word: zero-data learning
+  translation: verisiz öğrenme
  
-   - word: zero-shot learning
- translation: eksik etiketli öğrenme
+- word: zero-shot learning
+  translation: eksik etiketli öğrenme
  
-   - word: 0-1 loss
- translation: 0-1 kayıp
+- word: 0-1 loss
+  translation: 0-1 kayıp
  
-   - word: action
- translation: eylem
+- word: action
+  translation: eylem
  
-   - word: activation
- translation: etkilenim
+- word: activation
+  translation: etkilenim
  
-   - word: active
- translation: etkin
+- word: active
+  translation: etkin
  
-   - word: acyclic
- translation: çevrimsiz
+- word: acyclic
+  translation: çevrimsiz
  
-   - word: adaptation
- translation: uyarlama
+- word: adaptation
+  translation: uyarlama
  
-   - word: additive
- translation: eklemeli
+- word: additive
+  translation: eklemeli
  
-   - word: aerodynamics
- translation: hava devinim bilimi
+- word: aerodynamics
+  translation: hava devinim bilimi
  
-   - word: agent
- translation: etmen
+- word: agent
+  translation: etmen
  
-   - word: agglomerative
- translation: birleştirmeli
+- word: agglomerative
+  translation: birleştirmeli
  
-   - word: algorithm
- translation: algoritma
+- word: algorithm
+  translation: algoritma
  
-   - word: alignment
- translation: hizalama
+- word: alignment
+  translation: hizalama
  
-   - word: allele
- translation: eş gen
+- word: allele
+  translation: eş gen
  
-   - word: analysis
- translation: çözümleme
+- word: analysis
+  translation: çözümleme
  
-   - word: analytical 
- translation: çözümsel
+- word: analytical 
+  translation: çözümsel
  
-   - word: analyzer
- translation: çözümleyici
+- word: analyzer
+  translation: çözümleyici
  
-   - word: ancestor
- translation: ata
+- word: ancestor
+  translation: ata
  
-   - word: anchor
- translation: çapa
+- word: anchor
+  translation: çapa
  
-   - word: and
- translation: ve
+- word: and
+  translation: ve
  
-   - word: anneal
- translation: tavlamak
+- word: anneal
+  translation: tavlamak
  
-   - word: approximate
- translation: yaklaşık
+- word: approximate
+  translation: yaklaşık
  
-   - word: approximation
- translation: yaklaşıklama
+- word: approximation
+  translation: yaklaşıklama
  
-   - word: arc
- translation: ayrıt
+- word: arc
+  translation: ayrıt
  
-   - word: articulator
- translation: eklemleyici
+- word: articulator
+  translation: eklemleyici
  
-   - word: association
- translation: ilişkilendirme
+- word: association
+  translation: ilişkilendirme
  
-   - word: attribute
- translation: öznitelik
+- word: attribute
+  translation: öznitelik
  
-   - word: augmented
- translation: genişletilmiş
+- word: augmented
+  translation: genişletilmiş
  
-   - word: authentication
- translation: kimlik doğrulama
+- word: authentication
+  translation: kimlik doğrulama
  
-   - word: autoassociator
- translation: özilişkilendirici
+- word: autoassociator
+  translation: özilişkilendirici
  
-   - word: automaton
- translation: özdevinir
+- word: automaton
+  translation: özdevinir
  
-   - word: axiom
- translation: belit
+- word: axiom
+  translation: belit
  
-   - word: backup
- translation: geriye taşıma
+- word: backup
+  translation: geriye taşıma
  
-   - word: backward
- translation: geriye doğru
+- word: backward
+  translation: geriye doğru
  
-   - word: bag of words
- translation: sözcük torbası
+- word: bag of words
+  translation: sözcük torbası
  
-   - word: bandit
- translation: kollu kumar makinesi
+- word: bandit
+  translation: kollu kumar makinesi
  
-   - word: base
- translation: taban
+- word: base
+  translation: taban
  
-   - word: basis
- translation: taban
+- word: basis
+  translation: taban
  
-   - word: basket
- translation: sepet
+- word: basket
+  translation: sepet
  
-   - word: batch
- translation: toptan
+- word: batch
+  translation: toptan
  
-   - word: bayesian
- translation: bayesçi
+- word: bayesian
+  translation: bayesçi
  
-   - word: belief
- translation: inanç
+- word: belief
+  translation: inanç
  
-   - word: benchmark
- translation: denek
+- word: benchmark
+  translation: denek
  
-   - word: bias
- translation: yanlılık
+- word: bias
+  translation: yanlılık
  
-   - word: bias unit
- translation: ek girdi
+- word: bias unit
+  translation: ek girdi
  
-   - word: bin
- translation: kutucuk
+- word: bin
+  translation: kutucuk
  
-   - word: binary
- translation: ikili
+- word: binary
+  translation: ikili
  
-   - word: binding
- translation: değer atama
+- word: binding
+  translation: değer atama
  
-   - word: binomial
- translation: binom
+- word: binomial
+  translation: binom
  
-   - word: biometrics
- translation: biyometri
+- word: biometrics
+  translation: biyometri
  
-   - word: blocking
- translation: bölükleme
+- word: blocking
+  translation: bölükleme
  
-   - word: boolean
- translation: mantıksal
+- word: boolean
+  translation: mantıksal
  
-   - word: bootstrap
- translation: rastgele örnekleme
+- word: bootstrap
+  translation: rastgele örnekleme
  
-   - word: branch and bound
- translation: dallan ve sınırla
+- word: branch and bound
+  translation: dallan ve sınırla
  
-   - word: breadth-first
- translation: genişlik öncelikli
+- word: breadth-first
+  translation: genişlik öncelikli
  
-   - word: bump
- translation: tümsek
+- word: bump
+  translation: tümsek
  
-   - word: canonical
- translation: asal
+- word: canonical
+  translation: asal
  
-   - word: capacity
- translation: sığım
+- word: capacity
+  translation: sığım
  
-   - word: cascade
- translation: ardışık
+- word: cascade
+  translation: ardışık
  
-   - word: case-based
- translation: örnek tabanlı
+- word: case-based
+  translation: örnek tabanlı
  
-   - word: causal
- translation: nedensel
+- word: causal
+  translation: nedensel
  
-   - word: cause
- translation: neden
+- word: cause
+  translation: neden
  
-   - word: central
- translation: limit theorem merkezi limit kuramı
+- word: central
+  translation: limit theorem merkezi limit kuramı
  
-   - word: chain
- translation: zincir
+- word: chain
+  translation: zincir
  
-   - word: chapter
- translation: bölüm
+- word: chapter
+  translation: bölüm
  
-   - word: characterize
- translation: betimlemek
+- word: characterize
+  translation: betimlemek
  
-   - word: chi-square
- translation: ki kare
+- word: chi-square
+  translation: ki kare
  
-   - word: city-block distance
- translation: şehir içi uzaklık
+- word: city-block distance
+  translation: şehir içi uzaklık
  
-   - word: class
- translation: sınıf
+- word: class
+  translation: sınıf
  
-   - word: classifier
- translation: sınıflandırıcı
+- word: classifier
+  translation: sınıflandırıcı
  
-   - word: clique
- translation: hizip
+- word: clique
+  translation: hizip
  
-   - word: cluster
- translation: öbek
+- word: cluster
+  translation: öbek
  
-   - word: code
- translation: gizyazı
+- word: code
+  translation: gizyazı
  
-   - word: codebook
- translation: vector gizyazı yöneyi
+- word: codebook
+  translation: vector gizyazı yöneyi
  
-   - word: column
- translation: sütun
+- word: column
+  translation: sütun
  
-   - word: combination
- translation: birleşim
+- word: combination
+  translation: birleşim
  
-   - word: competitive
- translation: yarışmacı
+- word: competitive
+  translation: yarışmacı
  
-   - word: complement
- translation: tümleyen
+- word: complement
+  translation: tümleyen
  
-   - word: complexity
- translation: karmaşıklık
+- word: complexity
+  translation: karmaşıklık
  
-   - word: component
- translation: bileşen
+- word: component
+  translation: bileşen
  
-   - word: compression
- translation: sıkıştırma
+- word: compression
+  translation: sıkıştırma
  
-   - word: computation
- translation: hesaplama
+- word: computation
+  translation: hesaplama
  
-   - word: concave
- translation: içbükey
+- word: concave
+  translation: içbükey
  
-   - word: condensed
- translation: seyrek
+- word: condensed
+  translation: seyrek
  
-   - word: conditional
- translation: independence koşullu bağımsızlık
+- word: conditional
+  translation: independence koşullu bağımsızlık
  
-   - word: confidence
- translation: güven+
+- word: confidence
+  translation: güven+
  
-   - word: confusion matrix
- translation: hata dizeyi
+- word: confusion matrix
+  translation: hata dizeyi
  
-   - word: conjugate
- translation: eşlenik
+- word: conjugate
+  translation: eşlenik
  
-   - word: connected graph
- translation: bağlı çizge
+- word: connected graph
+  translation: bağlı çizge
  
-   - word: connection
- translation: bağlantı
+- word: connection
+  translation: bağlantı
  
-   - word: connectivity
- translation: bağlantısallık
+- word: connectivity
+  translation: bağlantısallık
  
-   - word: constant
- translation: sabit
+- word: constant
+  translation: sabit
  
-   - word: contingency table
- translation: olumsallık çizelgesi
+- word: contingency table
+  translation: olumsallık çizelgesi
  
-   - word: contour
- translation: çevrit
+- word: contour
+  translation: çevrit
  
-   - word: contrast
- translation: zıtlık
+- word: contrast
+  translation: zıtlık
  
-   - word: convex
- translation: dışbükey
+- word: convex
+  translation: dışbükey
  
-   - word: convolution
- translation: evrişim
+- word: convolution
+  translation: evrişim
  
-   - word: cooperative
- translation: işbirlikçi
+- word: cooperative
+  translation: işbirlikçi
  
-   - word: coordinates
- translation: eksen değerleri
+- word: coordinates
+  translation: eksen değerleri
  
-   - word: correction
- translation: düzeltme
+- word: correction
+  translation: düzeltme
  
-   - word: correlation
- translation: ilinti
+- word: correlation
+  translation: ilinti
  
-   - word: cost
- translation: bedel
+- word: cost
+  translation: bedel
  
-   - word: count
- translation: sayım
+- word: count
+  translation: sayım
  
-   - word: coupled
- translation: bağlı
+- word: coupled
+  translation: bağlı
  
-   - word: covariance
- translation: eşdeğişinti
+- word: covariance
+  translation: eşdeğişinti
  
-   - word: cover
- translation: kapsamak
+- word: cover
+  translation: kapsamak
  
-   - word: credit
- translation: assignment sorumluluk atama
+- word: credit
+  translation: assignment sorumluluk atama
  
-   - word: criterion
- translation: ölçüt
+- word: criterion
+  translation: ölçüt
  
-   - word: criterion
- translation: kıstas
+- word: criterion
+  translation: kıstas
  
-   - word: critic
- translation: eleştirmen
+- word: critic
+  translation: eleştirmen
  
-   - word: cross-entropy
- translation: çapraz düzensizlik
+- word: cross-entropy
+  translation: çapraz düzensizlik
  
-   - word: cross-validation
- translation: çapraz geçerleme
+- word: cross-validation
+  translation: çapraz geçerleme
  
-   - word: cumulative distribution
- translation: birikimli dağılım
+- word: cumulative distribution
+  translation: birikimli dağılım
  
-   - word: curse of dimensionality
- translation: çok boyutluluğun laneti
+- word: curse of dimensionality
+  translation: çok boyutluluğun laneti
  
-   - word: curvature
- translation: eğrilik
+- word: curvature
+  translation: eğrilik
  
-   - word: curve
- translation: eğri
+- word: curve
+  translation: eğri
  
-   - word: cycle
- translation: çevrim
+- word: cycle
+  translation: çevrim
  
-   - word: dataset
- translation: veri kümesi
+- word: dataset
+  translation: veri kümesi
  
-   - word: decay
- translation: sönüm
+- word: decay
+  translation: sönüm
  
-   - word: decision
- translation: karar
+- word: decision
+  translation: karar
  
-   - word: decode
- translation: gizçözmek
+- word: decode
+  translation: gizçözmek
  
-   - word: decoder
- translation: gizçözer
+- word: decoder
+  translation: gizçözer
  
-   - word: decomposition
- translation: ayrışım
+- word: decomposition
+  translation: ayrışım
  
-   - word: decremental
- translation: azalımlı
+- word: decremental
+  translation: azalımlı
   
-   - word: dendrogram
- translation: ağaç çizit
+- word: dendrogram
+  translation: ağaç çizit
  
-   - word: density
- translation: yoğunluk
+- word: density
+  translation: yoğunluk
  
-   - word: depth-first
- translation: derinlik öncelikli
+- word: depth-first
+  translation: derinlik öncelikli
  
-   - word: descendant
- translation: soyundan gelen
+- word: descendant
+  translation: soyundan gelen
  
-   - word: description
- translation: betimleme
+- word: description
+  translation: betimleme
  
-   - word: design
- translation: tasarım
+- word: design
+  translation: tasarım
  
-   - word: detail
- translation: ayrıntı
+- word: detail
+  translation: ayrıntı
  
-   - word: detection
- translation:  sezim
+- word: detection
+  translation:  sezim
  
-   - word: deterministic
- translation: gerekirci
+- word: deterministic
+  translation: gerekirci
  
-   - word: deviation
- translation: sapma
+- word: deviation
+  translation: sapma
  
-   - word: diagnosis
- translation: tanı
+- word: diagnosis
+  translation: tanı
  
-   - word: diagnostic
- translation: tanısal
+- word: diagnostic
+  translation: tanısal
  
-   - word: diagonal
- translation: köşegen
+- word: diagonal
+  translation: köşegen
  
-   - word: diagram
- translation: çizem
+- word: diagram
+  translation: çizem
  
-   - word: dichotomizer
- translation: ikili ayırıcı
+- word: dichotomizer
+  translation: ikili ayırıcı
  
-   - word: diffusion
- translation: yayınım
+- word: diffusion
+  translation: yayınım
 
-   - word: dilemma
- translation: ikilem
+- word: dilemma
+  translation: ikilem
  
-   - word: dimension
- translation: boyut
+- word: dimension
+  translation: boyut
  
-   - word: directed
- translation: yönlü
+- word: directed
+  translation: yönlü
  
-   - word: discontinuity
- translation: süreksizlik
+- word: discontinuity
+  translation: süreksizlik
  
-   - word: discount
- translation: indirim
+- word: discount
+  translation: indirim
  
-   - word: discrete
- translation: kesikli
+- word: discrete
+  translation: kesikli
  
-   - word: discretization
- translation: kesiklileştirme
+- word: discretization
+  translation: kesiklileştirme
  
-   - word: discriminant
- translation: ayırtaç
+- word: discriminant
+  translation: ayırtaç
  
-   - word: distance
- translation: uzaklık
+- word: distance
+  translation: uzaklık
  
-   - word: distributed
- translation: dağıtık
+- word: distributed
+  translation: dağıtık
  
-   - word: distribution
- translation: dağılım
+- word: distribution
+  translation: dağılım
  
-   - word: divergence
- translation: ıraksama
+- word: divergence
+  translation: ıraksama
   
-   - word: diversity
- translation: çeşitlilik
+- word: diversity
+  translation: çeşitlilik
  
-   - word: divisive
- translation: bölmeli
+- word: divisive
+  translation: bölmeli
  
-   - word: document
- translation: belge
+- word: document
+  translation: belge
  
-   - word: dot product
- translation: iç çarpım
+- word: dot product
+  translation: iç çarpım
  
-   - word: doubt
- translation: kuşku
+- word: doubt
+  translation: kuşku
  
-   - word: dual 
- translation: eşlek
+- word: dual 
+  translation: eşlek
  
-   - word: dummy variable
- translation: yapay değişken
+- word: dummy variable
+  translation: yapay değişken
  
-   - word: dynamic
- translation: devingen
+- word: dynamic
+  translation: devingen
  
-   - word: edge
- translation: ayrıt
+- word: edge
+  translation: ayrıt
  
-   - word: edit
- translation: distance düzeltme uzaklığı
+- word: edit
+  translation: distance düzeltme uzaklığı
  
-   - word: efficient
- translation: etkili
+- word: efficient
+  translation: etkili
  
-   - word: eigenvector
- translation: özyöney
+- word: eigenvector
+  translation: özyöney
  
-   - word: element
- translation: öğe
+- word: element
+  translation: öğe
  
-   - word: eligibility
- translation: uygunluk
+- word: eligibility
+  translation: uygunluk
  
-   - word: eliminate
- translation: elemek
+- word: eliminate
+  translation: elemek
  
-   - word: embedding
- translation: gömme
+- word: embedding
+  translation: gömme
  
-   - word: emission
- translation: yayım
+- word: emission
+  translation: yayım
  
-   - word: empirical
- translation: gözlemsel
+- word: empirical
+  translation: gözlemsel
  
-   - word: encode
- translation: gizyazmak
+- word: encode
+  translation: gizyazmak
  
-   - word: encoder
- translation: gizyazar
+- word: encoder
+  translation: gizyazar
  
-   - word: ensemble
- translation: küme yada topluluk
+- word: ensemble
+  translation: küme yada topluluk
  
-   - word: entropy
- translation: düzensizlik
+- word: entropy
+  translation: düzensizlik
  
-   - word: environment
- translation: ortam
+- word: environment
+  translation: ortam
  
-   - word: episode
- translation: serüven
+- word: episode
+  translation: serüven
  
-   - word: epoch
- translation: dönem
+- word: epoch
+  translation: dönem
  
-   - word: equation
- translation: denklem
+- word: equation
+  translation: denklem
  
-   - word: error
- translation: hata
+- word: error
+  translation: hata
  
-   - word: error bar
- translation: hata çubuğu
+- word: error bar
+  translation: hata çubuğu
    
-   - word: et al
- translation: ve ötekiler
+- word: et al
+  translation: ve ötekiler
  
-   - word: euclidean distance
- translation: öklid uzaklığı
+- word: euclidean distance
+  translation: öklid uzaklığı
  
-   - word: evaluation
- translation: değerlendirme
+- word: evaluation
+  translation: değerlendirme
  
-   - word: evidence
- translation: kanıt
+- word: evidence
+  translation: kanıt
  
-   - word: exact
- translation: kesin
+- word: exact
+  translation: kesin
  
-   - word: example
- translation: örnek
+- word: example
+  translation: örnek
  
-   - word: exercise
- translation: alıştırma
+- word: exercise
+  translation: alıştırma
  
-   - word: exhaustive
- translation: kapsayan
+- word: exhaustive
+  translation: kapsayan
  
-   - word: expansion
- translation: açılım
+- word: expansion
+  translation: açılım
  
-   - word: expectation-maximization
- translation: beklenti büyütme
+- word: expectation-maximization
+  translation: beklenti büyütme
  
-   - word: experiment
- translation: deney
+- word: experiment
+  translation: deney
  
-   - word: expert
- translation: uzman
+- word: expert
+  translation: uzman
  
-   - word: explaining away
- translation: örtbas etmek
+- word: explaining away
+  translation: örtbas etmek
  
-   - word: expression
- translation: bildirim
+- word: expression
+  translation: bildirim
  
-   - word: extraction
- translation: çıkarım
+- word: extraction
+  translation: çıkarım
  
-   - word: extrapolation
- translation: dışdeğerleme
+- word: extrapolation
+  translation: dışdeğerleme
  
-   - word: factor
- translation: çarpan veya etken
+- word: factor
+  translation: çarpan veya etken
  
-   - word: factorial
- translation: etkensel
+- word: factorial
+  translation: etkensel
  
-   - word: feature
- translation: öznitelik
+- word: feature
+  translation: öznitelik
  
-   - word: feedforward
- translation: ileriye doğru
+- word: feedforward
+  translation: ileriye doğru
  
-   - word: figure
- translation: şekil
+- word: figure
+  translation: şekil
  
-   - word: filter
- translation: süzgeç
+- word: filter
+  translation: süzgeç
  
-   - word: finite horizon
- translation: sonlu serüven
+- word: finite horizon
+  translation: sonlu serüven
  
-   - word: fit
- translation: oturtma yada uydurma
+- word: fit
+  translation: oturtma yada uydurma
  
-   - word: flexible
- translation: esnek
+- word: flexible
+  translation: esnek
  
-   - word: floating
- translation: kayan
+- word: floating
+  translation: kayan
  
-   - word: fold
- translation: kat
+- word: fold
+  translation: kat
  
-   - word: forward
- translation: ileriye doğru
+- word: forward
+  translation: ileriye doğru
  
-   - word: frontal
- translation: cepheden
+- word: frontal
+  translation: cepheden
  
-   - word: function
- translation: işlev
+- word: function
+  translation: işlev
  
-   - word: fusion
- translation: kaynaştırma
+- word: fusion
+  translation: kaynaştırma
  
-   - word: fuzzy
- translation: bulanık
+- word: fuzzy
+  translation: bulanık
  
-   - word: generalization
- translation: genelleme
+- word: generalization
+  translation: genelleme
  
-   - word: generative
- translation: üretici
+- word: generative
+  translation: üretici
  
-   - word: Generative adversarial
- translation: çekişmeli üretici
+- word: Generative adversarial
+  translation: çekişmeli üretici
  
-   - word: generic
- translation: genel
+- word: generic
+  translation: genel
  
-   - word: geodesic
- translation: yerölçümsel
+- word: geodesic
+  translation: yerölçümsel
  
-   - word: gradient
- translation: eğim
+- word: gradient
+  translation: eğim
  
-   - word: graph
- translation: çizge
+- word: graph
+  translation: çizge
  
-   - word: graphical
- translation: çizgesel
+- word: graphical
+  translation: çizgesel
  
-   - word: greedy
- translation: açgözlü
+- word: greedy
+  translation: açgözlü
  
-   - word: group
- translation: öbek
+- word: group
+  translation: öbek
  
-   - word: hard
- translation: keskin
+- word: hard
+  translation: keskin
  
-   - word: hash table
- translation: anahtarlı çizelge
+- word: hash table
+  translation: anahtarlı çizelge
  
-   - word: heuristics
- translation: sezgi
+- word: heuristics
+  translation: sezgi
  
-   - word: hidden
- translation: saklı
+- word: hidden
+  translation: saklı
  
-   - word: hierarchical
- translation: ağaç yapılı
+- word: hierarchical
+  translation: ağaç yapılı
  
-   - word: higher-order
- translation: üst düzey
+- word: higher-order
+  translation: üst düzey
  
-   - word: hinge loss
- translation: menteşe yitimi
+- word: hinge loss
+  translation: menteşe yitimi
  
-   - word: hint
- translation: ipucu
+- word: hint
+  translation: ipucu
  
-   - word: histogram
- translation: çubuk,çizit
+- word: histogram
+  translation: çubuk,çizit
  
-   - word: hybrid
- translation: karma
+- word: hybrid
+  translation: karma
  
-   - word: hyper
- translation: üstün
+- word: hyper
+  translation: üstün
  
-   - word: hypothesis
- translation: denence
+- word: hypothesis
+  translation: denence
  
-   - word: identical
- translation: özdeş
+- word: identical
+  translation: özdeş
  
-   - word: if-then
- translation: eğer-ise
+- word: if-then
+  translation: eğer-ise
  
-   - word: iid
- translation: bağımsız ve özdeşçe dağılmış
+- word: iid
+  translation: bağımsız ve özdeşçe dağılmış
  
-   - word: ill-posed
- translation: kötü konumlanmış
+- word: ill-posed
+  translation: kötü konumlanmış
  
-   - word: impurity
- translation: katışıklık
+- word: impurity
+  translation: katışıklık
  
-   - word: imputation
- translation: yükleme
+- word: imputation
+  translation: yükleme
  
-   - word: incremental
- translation: artımlı
+- word: incremental
+  translation: artımlı
  
-   - word: independence
- translation: bağımsızlık
+- word: independence
+  translation: bağımsızlık
  
-   - word: index
- translation: dizin
+- word: index
+  translation: dizin
    
-   - word: indicator
- translation: gösterge
+- word: indicator
+  translation: gösterge
 
-   - word: induction
- translation: kural oluşturma
+- word: induction
+  translation: kural oluşturma
  
-   - word: inductive bias
- translation: model varsayımı
+- word: inductive bias
+  translation: model varsayımı
  
-   - word: inference
- translation: çıkarsama
+- word: inference
+  translation: çıkarsama
  
-   - word: infinite horizon
- translation: sonsuz serüven
+- word: infinite horizon
+  translation: sonsuz serüven
  
-   - word: influence
- translation: etki
+- word: influence
+  translation: etki
  
-   - word: information
- translation: bilgi
+- word: information
+  translation: bilgi
  
-   - word: inhibition
- translation: ketleme
+- word: inhibition
+  translation: ketleme
  
-   - word: initial
- translation: ilk
+- word: initial
+  translation: ilk
  
-   - word: inner product
- translation: iç çarpım
+- word: inner product
+  translation: iç çarpım
  
-   - word: input
- translation: girdi
+- word: input
+  translation: girdi
  
-   - word: instance
- translation: örnek
+- word: instance
+  translation: örnek
  
-   - word: instantiate
- translation: somutlaşmak
+- word: instantiate
+  translation: somutlaşmak
  
-   - word: interaction
- translation: etkileşim
+- word: interaction
+  translation: etkileşim
  
-   - word: internal
- translation: iç
+- word: internal
+  translation: iç
  
-   - word: interpolate
- translation: ara değerlemek
+- word: interpolate
+  translation: ara değerlemek
  
-   - word: interpretability
- translation: yorumlanabilirlik
+- word: interpretability
+  translation: yorumlanabilirlik
  
-   - word: interval
- translation: aralık
+- word: interval
+  translation: aralık
  
-   - word: invariance
- translation: değişmezlik
+- word: invariance
+  translation: değişmezlik
  
-   - word: isometric
- translation: eşölçümsel
+- word: isometric
+  translation: eşölçümsel
  
-   - word: isoprobability
- translation: eşolasılık
+- word: isoprobability
+  translation: eşolasılık
  
-   - word: item
- translation: öğe
+- word: item
+  translation: öğe
  
-   - word: iteration
- translation: yineleme
+- word: iteration
+  translation: yineleme
  
-   - word: jobshop
- translation: sipariş
+- word: jobshop
+  translation: sipariş
  
-   - word: joint
- translation: birleşik
+- word: joint
+  translation: birleşik
  
-   - word: jump
- translation: sıçrama
+- word: jump
+  translation: sıçrama
  
-   - word: junction
- translation: kavşak
+- word: junction
+  translation: kavşak
  
-   - word: k fold
- translation: k kat
+- word: k fold
+  translation: k kat
  
-   - word: kernel
- translation: çekirdek
+- word: kernel
+  translation: çekirdek
  
-   - word: kernelization
- translation: çekirdekleme
+- word: kernelization
+  translation: çekirdekleme
  
-   - word: k-means
- translation: k merkezli
+- word: k-means
+  translation: k merkezli
  
-   - word: k-nearest neighbor
- translation: en yakın k komşu
+- word: k-nearest neighbor
+  translation: en yakın k komşu
  
-   - word: knowledge
- translation: bilgi
+- word: knowledge
+  translation: bilgi
  
-   - word: latent
- translation: saklı
+- word: latent
+  translation: saklı
  
-   - word: lateral
- translation: yanal
+- word: lateral
+  translation: yanal
  
-   - word: lattice
- translation: kafes
+- word: lattice
+  translation: kafes
  
-   - word: layer
- translation: katman
+- word: layer
+  translation: katman
  
-   - word: leader cluster
- translation: önder öbekleme
+- word: leader cluster
+  translation: önder öbekleme
  
-   - word: leaf
- translation: yaprak
+- word: leaf
+  translation: yaprak
  
-   - word: leave-one-out
- translation: birini dışarıda bırak
+- word: leave-one-out
+  translation: birini dışarıda bırak
  
-   - word: level
- translation: düzey
+- word: level
+  translation: düzey
  
-   - word: lift of an association rule
- translation: etki ilişkilendirme kuralı
+- word: lift of an association rule
+  translation: etki ilişkilendirme kuralı
  
-   - word: likelihood
- translation: olabilirlik
+- word: likelihood
+  translation: olabilirlik
  
-   - word: linear
- translation: doğrusal
+- word: linear
+  translation: doğrusal
  
-   - word: link
- translation: bağ
+- word: link
+  translation: bağ
  
-   - word: loading
- translation: yükleme
+- word: loading
+  translation: yükleme
  
-   - word: local
- translation: yerel
+- word: local
+  translation: yerel
  
-   - word: logistic
- translation: s biçimli
+- word: logistic
+  translation: s biçimli
  
-   - word: logit
- translation: ters s
+- word: logit
+  translation: ters s
  
-   - word: loop
- translation: döngü
+- word: loop
+  translation: döngü
  
-   - word: loss
- translation: yitim
+- word: loss
+  translation: yitim
  
-   - word: majority
- translation: çoğunluk
+- word: majority
+  translation: çoğunluk
  
-   - word: map
- translation: harita
+- word: map
+  translation: harita
  
-   - word: mapping
- translation: eşleme
+- word: mapping
+  translation: eşleme
  
-   - word: margin
- translation: kenar payı
+- word: margin
+  translation: kenar payı
  
-   - word: marginalize
- translation: tümleştirme
+- word: marginalize
+  translation: tümleştirme
  
-   - word: matching
- translation: eşleştirme
+- word: matching
+  translation: eşleştirme
  
-   - word: matrix
- translation: dizey
+- word: matrix
+  translation: dizey
  
-   - word: maximization
- translation: büyütme
+- word: maximization
+  translation: büyütme
  
-   - word: maximum a posteriori map
- translation:  en büyük sonsal ebs
+- word: maximum a posteriori map
+  translation:  en büyük sonsal ebs
  
-   - word: maximum likelihood ml
- translation: en büyük olabilirlik ebo
+- word: maximum likelihood ml
+  translation: en büyük olabilirlik ebo
   
-  - word: max-product
- translation: büyütme çarpma
+- word: max-product
+  translation: büyütme çarpma
  
-   - word: mean
- translation: ortalama
+- word: mean
+  translation: ortalama
  
-   - word: measure
- translation: ölçüt
+- word: measure
+  translation: ölçüt
  
-   - word: mechanism
- translation: düzenek
+- word: mechanism
+  translation: düzenek
  
-   - word: meiosis
- translation: eşeyli bölünme
+- word: meiosis
+  translation: eşeyli bölünme
  
-   - word: membership
- translation: üyelik
+- word: membership
+  translation: üyelik
  
-   - word: memory
- translation: bellek
+- word: memory
+  translation: bellek
  
-   - word: message
- translation: ileti
+- word: message
+  translation: ileti
  
-   - word: methodology
- translation: yöntembilim
+- word: methodology
+  translation: yöntembilim
  
-   - word: metric
- translation: ölçev
+- word: metric
+  translation: ölçev
  
-   - word: minimization
- translation: küçültme
+- word: minimization
+  translation: küçültme
  
-   - word: missing
- translation: eksik
+- word: missing
+  translation: eksik
  
-   - word: mixture
- translation: karışım
+- word: mixture
+  translation: karışım
  
-   - word: modality
- translation: kip
+- word: modality
+  translation: kip
  
-   - word: mode of a density
- translation: tepe dağılımı
+- word: mode of a density
+  translation: tepe dağılımı
  
-   - word: model
- translation: model
+- word: model
+  translation: model
  
-   - word: moralization
- translation: ahlaklılastırma
+- word: moralization
+  translation: ahlaklılastırma
  
-   - word: multinomial distribution
- translation: katlıterimli dağılım
+- word: multinomial distribution
+  translation: katlıterimli dağılım
  
-   - word: multiple
- translation: çoklu
+- word: multiple
+  translation: çoklu
  
-   - word: multistage
- translation: çok aşamalı
+- word: multistage
+  translation: çok aşamalı
  
-   - word: multivariate
- translation: çok değişkenli
+- word: multivariate
+  translation: çok değişkenli
  
-   - word: mutually
- translation: exclusive ayrık
+- word: mutually
+  translation: exclusive ayrık
  
-   - word: naive
- translation: saf
+- word: naive
+  translation: saf
  
-   - word: negative
- translation: eksi
+- word: negative
+  translation: eksi
  
-   - word: network
- translation: ağ
+- word: network
+  translation: ağ
  
-   - word: neuron
- translation: sinir hücresi
+- word: neuron
+  translation: sinir hücresi
  
-   - word: node
- translation: düğüm
+- word: node
+  translation: düğüm
  
-   - word: noise
- translation: gürültü
+- word: noise
+  translation: gürültü
  
-   - word: nonlinear
- translation: doğrusal olmayan
+- word: nonlinear
+  translation: doğrusal olmayan
  
-   - word: nonnegative
- translation: eksi olmayan
+- word: nonnegative
+  translation: eksi olmayan
  
-   - word: nonparametric
- translation: dağılımdan bağımsız
+- word: nonparametric
+  translation: dağılımdan bağımsız
  
-   - word: norm
- translation: büyüklük
+- word: norm
+  translation: büyüklük
  
-   - word: normal
- translation: normal
+- word: normal
+  translation: normal
  
-   - word: normalization
- translation: normalleştirme
+- word: normalization
+  translation: normalleştirme
  
-   - word: np-complete
- translation: çokterimli zamanda bulunamaz
+- word: np-complete
+  translation: çokterimli zamanda bulunamaz
  
-   - word: nuisance factor
- translation: zararlı etken
+- word: nuisance factor
+  translation: zararlı etken
  
-   - word: null hypothesis
- translation: sıfır denencesi
+- word: null hypothesis
+  translation: sıfır denencesi
  
-   - word: numeric
- translation: sayısal
+- word: numeric
+  translation: sayısal
  
-   - word: oblique
- translation: yatık
+- word: oblique
+  translation: yatık
  
-   - word: observable
- translation: gözlenebilir
+- word: observable
+  translation: gözlenebilir
  
-   - word: observation
- translation: gözlem
+- word: observation
+  translation: gözlem
  
-   - word: occam’s razor
- translation: occam’ın usturası
+- word: occam’s razor
+  translation: occam’ın usturası
  
-   - word: occluded
- translation: örtülü
+- word: occluded
+  translation: örtülü
  
-   - word: offline
- translation: çevrimdışı
+- word: offline
+  translation: çevrimdışı
  
-   - word: off-policy
- translation: politikasız
+- word: off-policy
+  translation: politikasız
  
-   - word: omnivariate
- translation: tüm değişkenli
+- word: omnivariate
+  translation: tüm değişkenli
   
-   - word: one-sided
- translation: tek yanlı
+- word: one-sided
+  translation: tek yanlı
  
-   - word: online
- translation: çevrimiçi
+- word: online
+  translation: çevrimiçi
  
-   - word: on-policy
- translation: politikalı
+- word: on-policy
+  translation: politikalı
  
-   - word: optimal
- translation: en iyi
+- word: optimal
+  translation: en iyi
   
-   - word: optimization
- translation: iyileme
+- word: optimization
+  translation: iyileme
  
-   - word: or
- translation: veya
+- word: or
+  translation: veya
  
-   - word: order of a polynomial
- translation: çokterimlinin derecesi
+- word: order of a polynomial
+  translation: çokterimlinin derecesi
  
-   - word: order statistics
- translation: sıra istatistikleri
+- word: order statistics
+  translation: sıra istatistikleri
  
-   - word: origin of axes
- translation: eksenlerin sıfır noktası
+- word: origin of axes
+  translation: eksenlerin sıfır noktası
  
-   - word: oscillate
- translation: salınım
+- word: oscillate
+  translation: salınım
  
-   - word: outcome
- translation: sonuç
+- word: outcome
+  translation: sonuç
  
-   - word: outlier
- translation: aykırı
+- word: outlier
+  translation: aykırı
  
-   - word: overfitting
- translation: aşırı öğrenme
+- word: overfitting
+  translation: aşırı öğrenme
  
-   - word: overtraining
- translation: aşırı eğitme
+- word: overtraining
+  translation: aşırı eğitme
  
-   - word: paired
- translation: eşli
+- word: paired
+  translation: eşli
  
-   - word: pairing
- translation: eşleme
+- word: pairing
+  translation: eşleme
  
-   - word: pairwise
- translation: ikili
+- word: pairwise
+  translation: ikili
  
-   - word: parallel
- translation: koşut
+- word: parallel
+  translation: koşut
  
-   - word: parametric
- translation: dağılıma bağlı
+- word: parametric
+  translation: dağılıma bağlı
  
-   - word: parent node
- translation: ebeveyn düğüm
+- word: parent node
+  translation: ebeveyn düğüm
  
-   - word: parity 
- translation: eşlik
+- word: parity 
+  translation: eşlik
   
-   - word: partial
- translation: kısmi, kısmen
+- word: partial
+  translation: kısmi, kısmen
  
-   - word: passive
- translation: edilgen
+- word: passive
+  translation: edilgen
  
-   - word: path
- translation: yol
+- word: path
+  translation: yol
  
-   - word: pattern
- translation: örüntü
+- word: pattern
+  translation: örüntü
  
-   - word: pedigree
- translation: soy
+- word: pedigree
+  translation: soy
  
-   - word: perceptron
- translation: algılayıcı
+- word: perceptron
+  translation: algılayıcı
  
-   - word: performance
- translation: başarım
+- word: performance
+  translation: başarım
  
-   - word: phone
- translation: sesbirimcik
+- word: phone
+  translation: sesbirimcik
  
-   - word: phoneme
- translation: sesbirim
+- word: phoneme
+  translation: sesbirim
  
-   - word: phylogenetic tree
- translation: soy ağacı
+- word: phylogenetic tree
+  translation: soy ağacı
  
-   - word: piecewise
- translation: parçalı
+- word: piecewise
+  translation: parçalı
  
-   - word: pixel
- translation: imge noktası
+- word: pixel
+  translation: imge noktası
  
-   - word: plasticity  
- translation: yoğrukluk
+- word: plasticity  
+  translation: yoğrukluk
  
-   - word: plate
- translation: tabaka
+- word: plate
+  translation: tabaka
  
-   - word: plot 
- translation: çizim
+- word: plot 
+  translation: çizim
  
-   - word: plurality
- translation: çoğulluk
+- word: plurality
+  translation: çoğulluk
  
-   - word: policy
- translation: politika
+- word: policy
+  translation: politika
  
-   - word: polychotomizer
- translation: çoklu ayırıcı
+- word: polychotomizer
+  translation: çoklu ayırıcı
  
-   - word: polyhedron
- translation: çokyüzlü
+- word: polyhedron
+  translation: çokyüzlü
  
-   - word: polynomial
- translation: çokterimli
+- word: polynomial
+  translation: çokterimli
  
-   - word: polytree
- translation: çoklu ağaç
+- word: polytree
+  translation: çoklu ağaç
  
-   - word: positive
- translation: artı
+- word: positive
+  translation: artı
  
-   - word: positive definite 
- translation: kesin artı
+- word: positive definite 
+  translation: kesin artı
  
-   - word: positive semidefinite
- translation: yarı kesin artı
+- word: positive semidefinite
+  translation: yarı kesin artı
  
-   - word: posterior 
- translation: sonsal olasılık
+- word: posterior 
+  translation: sonsal olasılık
  
-   - word: posthoc 
- translation: artçı
+- word: posthoc 
+  translation: artçı
  
-   - word: postpruning
- translation: geç budama
+- word: postpruning
+  translation: geç budama
  
-   - word: potential function
- translation: gerilim işlevi
+- word: potential function
+  translation: gerilim işlevi
  
-   - word: power
- translation: üst
+- word: power
+  translation: üst
  
-   - word: power function
- translation: güç işlevi
+- word: power function
+  translation: güç işlevi
  
-   - word: precision
- translation: kesinlik
+- word: precision
+  translation: kesinlik
  
-   - word: predicate
- translation: belirtim
+- word: predicate
+  translation: belirtim
  
-   - word: prediction
- translation: öngörü
+- word: prediction
+  translation: öngörü
  
-   - word: predictive
- translation: öngörücü
+- word: predictive
+  translation: öngörücü
  
-   - word: prepruning
- translation: erken budama
+- word: prepruning
+  translation: erken budama
  
-   - word: primal
- translation: asal
+- word: primal
+  translation: asal
  
-   - word: principal
- translation: temel
+- word: principal
+  translation: temel
  
-   - word: principle
- translation: ilke
+- word: principle
+  translation: ilke
  
-   - word: prior
- translation: önsel
+- word: prior
+  translation: önsel
  
-   - word: probabilistic
- translation: olasılıksal
+- word: probabilistic
+  translation: olasılıksal
  
-   - word: probability
- translation: olasılık
+- word: probability
+  translation: olasılık
  
-   - word: probably
- translation: olası
+- word: probably
+  translation: olası
 
-   - word: procedure
- translation: yordam
+- word: procedure
+  translation: yordam
    
-   - word: projection
- translation: izdüşüm
+- word: projection
+  translation: izdüşüm
   
-   - word: propagation
- translation: yayılım
+- word: propagation
+  translation: yayılım
   
-   - word: propositional rule
- translation: önermeli kural
+- word: propositional rule
+  translation: önermeli kural
   
-   - word: prototype 
- translation: asıl örnek
+- word: prototype 
+  translation: asıl örnek
   
-   - word: pruning
- translation: budama
+- word: pruning
+  translation: budama
   
-   - word: pseudocode
- translation: örnek program
+- word: pseudocode
+  translation: örnek program
    
-   - word: purity
- translation: saflık
+- word: purity
+  translation: saflık
    
-   - word: pursuit
- translation: izleme
+- word: pursuit
+  translation: izleme
    
-   - word: quadratic
- translation: karesel, ikinci dereceden
+- word: quadratic
+  translation: karesel, ikinci dereceden
    
-   - word: quantization
- translation: nicemleme
+- word: quantization
+  translation: nicemleme
    
-   - word: query
- translation: sorgu
+- word: query
+  translation: sorgu
    
-   - word: radial
- translation: dairesel
+- word: radial
+  translation: dairesel
    
-   - word: random
- translation: rastgele
+- word: random
+  translation: rastgele
   
-  - word: random
- translation: rastsal
+- word: random
+  translation: rastsal
  
-  - word: randomization
- translation: rastsallastırma
+- word: randomization
+  translation: rastsallastırma
  
-  - word: range
- translation: açıklık
+- word: range
+  translation: açıklık
  
-  - word: rank of a matrix
- translation: dizeyin kertesi
+- word: rank of a matrix
+  translation: dizeyin kertesi
  
-  - word: rank test
- translation: sıra sınaması
+- word: rank test
+  translation: sıra sınaması
  
-  - word: real-time
- translation: gerçek zamanlı
+- word: real-time
+  translation: gerçek zamanlı
  
-  - word: reasoning
- translation: akıl yürütme
+- word: reasoning
+  translation: akıl yürütme
  
-  - word: recall
- translation: duyarlılık
+- word: recall
+  translation: duyarlılık
  
-  - word: receiver
- translation: alıcı
+- word: receiver
+  translation: alıcı
  
-  - word: receptive field
- translation: algı alanı
+- word: receptive field
+  translation: algı alanı
  
-  - word: reciprocal
- translation: ters
+- word: reciprocal
+  translation: ters
  
-  - word: recognition
- translation: tanıma
+- word: recognition
+  translation: tanıma
  
-  - word: reconstruction
- translation: geri çatma
+- word: reconstruction
+  translation: geri çatma
  
-  - word: recurrent
- translation: özyineli
+- word: recurrent
+  translation: özyineli
  
-  - word: recursive
- translation: özçağrılı
+- word: recursive
+  translation: özçağrılı
  
-  - word: redundancy
- translation: fazlalık
+- word: redundancy
+  translation: fazlalık
  
-  - word: reference
- translation: dayanak
+- word: reference
+  translation: dayanak
  
-  - word: references
- translation: kaynaklar
+- word: references
+  translation: kaynaklar
  
-  - word: region
- translation: alan
+- word: region
+  translation: alan
  
-  - word: regression
- translation: bağlanım
+- word: regression
+  translation: bağlanım
  
-  - word: regressogram
- translation: bağlanım çiziti
+- word: regressogram
+  translation: bağlanım çiziti
  
-  - word: regularization
- translation: düzenlileştirme
+- word: regularization
+  translation: düzenlileştirme
  
-  - word: reinforcement
- translation: pekiştirme
+- word: reinforcement
+  translation: pekiştirme
  
-  - word: reject
- translation: ret
+- word: reject
+  translation: ret
  
-  - word: relative
- translation: görece
+- word: relative
+  translation: görece
  
-  - word: relevance
- translation: ilgililik
+- word: relevance
+  translation: ilgililik
  
-  - word: replication
- translation: çoğaltma
+- word: replication
+  translation: çoğaltma
  
-  - word: repository
- translation: veri tabanı
+- word: repository
+  translation: veri tabanı
  
-  - word: representation
- translation: gösterim
+- word: representation
+  translation: gösterim
  
-  - word: residual
- translation: artık
+- word: residual
+  translation: artık
  
-  - word: response
- translation: tepki
+- word: response
+  translation: tepki
  
-  - word: retrieval
- translation: erişim
+- word: retrieval
+  translation: erişim
  
-  - word: reverse engineering
- translation: tersine mühendislik
+- word: reverse engineering
+  translation: tersine mühendislik
  
-  - word: reward
- translation: ödül
+- word: reward
+  translation: ödül
  
-  - word: ridge
- translation: sırt
+- word: ridge
+  translation: sırt
  
-  - word: risk
- translation: risk
+- word: risk
+  translation: risk
  
-  - word: robust
- translation: gürbüz
+- word: robust
+  translation: gürbüz
  
-  - word: row
- translation: satır
+- word: row
+  translation: satır
  
-  - word: rule
- translation: kural
+- word: rule
+  translation: kural
  
-  - word: running
- translation: akan
+- word: running
+  translation: akan
  
-  - word: sample
- translation: örneklemek veya örneklem
+- word: sample
+  translation: örneklemek veya örneklem
  
-  - word: scalar
- translation: sayıl
+- word: scalar
+  translation: sayıl
  
-  - word: scale
- translation: ölçek
+- word: scale
+  translation: ölçek
  
-  - word: scatter
- translation: saçılım
+- word: scatter
+  translation: saçılım
  
-  - word: scene
- translation: görüntü
+- word: scene
+  translation: görüntü
  
-  - word: schedule
- translation: zaman çizelgesi
+- word: schedule
+  translation: zaman çizelgesi
  
-  - word: scree
- translation: kayşat
+- word: scree
+  translation: kayşat
  
-  - word: search
- translation: arama
+- word: search
+  translation: arama
  
-  - word: section
- translation: bölüm
+- word: section
+  translation: bölüm
  
-  - word: segmentation
- translation: bölütleme
+- word: segmentation
+  translation: bölütleme
  
-  - word: selection
- translation: seçim
+- word: selection
+  translation: seçim
  
-  - word: self-organizing
- translation: özörgütlemeli
+- word: self-organizing
+  translation: özörgütlemeli
  
-  - word: semiparametric
- translation: dağılıma yarı bağlı
+- word: semiparametric
+  translation: dağılıma yarı bağlı
  
-  - word: sensitivity
- translation: duyarlılık
+- word: sensitivity
+  translation: duyarlılık
  
-  - word: sensor
- translation: alıcı
+- word: sensor
+  translation: alıcı
  
-  - word: sequence 
- translation: dizi
+- word: sequence 
+  translation: dizi
  
-  - word: sequential
- translation: sırayla
+- word: sequential
+  translation: sırayla
  
-  - word: set
- translation: küme
+- word: set
+  translation: küme
  
-  - word: shaded
- translation: gölgeli
+- word: shaded
+  translation: gölgeli
  
-  - word: share
- translation: paylaşmak
+- word: share
+  translation: paylaşmak
  
-  - word: shatter
- translation: tuz buz etmek
+- word: shatter
+  translation: tuz buz etmek
  
-  - word: short term
- translation: kısa soluklu
+- word: short term
+  translation: kısa soluklu
  
-  - word: sigmoid
- translation: işlevi
+- word: sigmoid
+  translation: işlevi
  
-  - word: sign
- translation: işaret
+- word: sign
+  translation: işaret
  
-  - word: significance
- translation: anlamlılık
+- word: significance
+  translation: anlamlılık
  
-  - word: simulation
- translation: benzetim
+- word: simulation
+  translation: benzetim
  
-  - word: simultaneous
- translation: eş zamanlı
+- word: simultaneous
+  translation: eş zamanlı
  
-  - word: singly connected
- translation: tekli bağlı
+- word: singly connected
+  translation: tekli bağlı
  
-  - word: singular
- translation: tekil
+- word: singular
+  translation: tekil
  
-  - word: slack variable
- translation: artık değişken
+- word: slack variable
+  translation: artık değişken
  
-  - word: smooth
- translation: düzleştirme
+- word: smooth
+  translation: düzleştirme
  
-  - word: smoother
- translation: düzleştirici
+- word: smoother
+  translation: düzleştirici
  
-  - word: soft
- translation: eşiksiz
+- word: soft
+  translation: eşiksiz
  
-  - word: softmax function
- translation: eşiksiz en büyük işlevi
+- word: softmax function
+  translation: eşiksiz en büyük işlevi
  
-  - word: sort
- translation: sıralamak
+- word: sort
+  translation: sıralamak
  
-  - word: spam
- translation: istenmeyen elektronik posta
+- word: spam
+  translation: istenmeyen elektronik posta
  
-  - word: span
- translation: kapsamak
+- word: span
+  translation: kapsamak
  
-  - word: sparse
- translation: seyrek
+- word: sparse
+  translation: seyrek
  
-  - word: spatial
- translation: uzamsal
+- word: spatial
+  translation: uzamsal
  
-  - word: specific
- translation: özgül
+- word: specific
+  translation: özgül
  
-  - word: specificity
- translation: özgüllük
+- word: specificity
+  translation: özgüllük
  
-  - word: spectral
- translation: izgesel
+- word: spectral
+  translation: izgesel
  
-  - word: spectrum
- translation: izge
+- word: spectrum
+  translation: izge
  
-  - word: spline
- translation: eğri
+- word: spline
+  translation: eğri
  
-  - word: split
- translation: bölme
+- word: split
+  translation: bölme
  
-  - word: spread
- translation: yayılım
+- word: spread
+  translation: yayılım
  
-  - word: stable
- translation: kararlı
+- word: stable
+  translation: kararlı
  
-  - word: stacking
- translation: yığma
+- word: stacking
+  translation: yığma
  
-  - word: stepsize
- translation: adım büyüklüğü
+- word: stepsize
+  translation: adım büyüklüğü
  
-  - word: stimulation
- translation: dürtü
+- word: stimulation
+  translation: dürtü
  
-  - word: stochastic
- translation: rastgele
+- word: stochastic
+  translation: rastgele
  
-  - word: strategy
- translation: yordam
+- word: strategy
+  translation: yordam
  
-  - word: stratification
- translation: katmanlastırma
+- word: stratification
+  translation: katmanlastırma
  
-  - word: stress
- translation: gerilim
+- word: stress
+  translation: gerilim
  
-  - word: string
- translation: dizi
+- word: string
+  translation: dizi
  
-  - word: structure
- translation: yapı
+- word: structure
+  translation: yapı
  
-  - word: stump
- translation: ağaççık
+- word: stump
+  translation: ağaççık
  
-  - word: subgraph
- translation: alt çizge
+- word: subgraph
+  translation: alt çizge
  
-  - word: subset
- translation: altküme
+- word: subset
+  translation: altküme
  
-  - word: subspace
- translation: altuzay
+- word: subspace
+  translation: altuzay
  
-  - word: sum-product
- translation: toplam çarpım
+- word: sum-product
+  translation: toplam çarpım
  
-  - word: supervised
- translation: gözetimli
+- word: supervised
+  translation: gözetimli
  
-  - word: support
- translation: destek
+- word: support
+  translation: destek
  
-  - word: surface
- translation: yüzey
+- word: surface
+  translation: yüzey
  
-  - word: switching
- translation: geçişli
+- word: switching
+  translation: geçişli
  
-  - word: symbol
- translation: simge
+- word: symbol
+  translation: simge
  
-  - word: symmetric
- translation: bakısımlı
+- word: symmetric
+  translation: bakısımlı
  
-  - word: symptom
- translation: belirti
+- word: symptom
+  translation: belirti
  
-  - word: synchronization
- translation: eşzamanlama
+- word: synchronization
+  translation: eşzamanlama
  
-  - word: system
- translation: dizge
+- word: system
+  translation: dizge
  
-  - word: table
- translation: çizelge
+- word: table
+  translation: çizelge
  
-  - word: tangent
- translation: teğet
+- word: tangent
+  translation: teğet
  
-  - word: template
- translation: şablon
+- word: template
+  translation: şablon
  
-  - word: temporal
- translation: zamansal
+- word: temporal
+  translation: zamansal
  
-  - word: term
- translation: terim
+- word: term
+  translation: terim
  
-  - word: terminal
- translation: uç
+- word: terminal
+  translation: uç
  
-  - word: test
- translation: sınama
+- word: test
+  translation: sınama
  
-  - word: theory
- translation: kuram
+- word: theory
+  translation: kuram
  
-  - word: threshold
- translation: eşik
+- word: threshold
+  translation: eşik
  
-  - word: time delay
- translation: zaman gecikmeli
+- word: time delay
+  translation: zaman gecikmeli
  
-  - word: time series
- translation: zaman dizisi
+- word: time series
+  translation: zaman dizisi
  
-  - word: topographic
- translation: yerbetimsel
+- word: topographic
+  translation: yerbetimsel
  
-  - word: topological
- translation: ilingesel
+- word: topological
+  translation: ilingesel
  
-  - word: trace
- translation: iz
+- word: trace
+  translation: iz
  
-  - word: trade-off
- translation: ödünleşim
+- word: trade-off
+  translation: ödünleşim
  
-  - word: trajectory
- translation: gezinge
+- word: trajectory
+  translation: gezinge
  
-  - word: transcribe
- translation: çevriyazmak
+- word: transcribe
+  translation: çevriyazmak
  
-  - word: transition
- translation: geçiş
+- word: transition
+  translation: geçiş
  
-  - word: transpose
- translation: devrik
+- word: transpose
+  translation: devrik
  
-  - word: traveling salesman
- translation: gezgin satıcı
+- word: traveling salesman
+  translation: gezgin satıcı
  
-  - word: trellis
- translation: kafes
+- word: trellis
+  translation: kafes
  
-  - word: two-sided
- translation: iki yanlı
+- word: two-sided
+  translation: iki yanlı
  
-  - word: unbiased
- translation: yansız
+- word: unbiased
+  translation: yansız
  
-  - word: unconstrained
- translation: kısıtlanmamış
+- word: unconstrained
+  translation: kısıtlanmamış
  
-  - word: underfitting
- translation: eksik öğrenme
+- word: underfitting
+  translation: eksik öğrenme
  
-  - word: unfold
- translation: açılmış
+- word: unfold
+  translation: açılmış
  
-  - word: uniform distribution
- translation: tekdüze dağılım
+- word: uniform distribution
+  translation: tekdüze dağılım
  
-  - word: univariate
- translation: tek değişkenli
+- word: univariate
+  translation: tek değişkenli
  
-  - word: unobservable
- translation: gözlenemeyen
+- word: unobservable
+  translation: gözlenemeyen
  
-  - word: unsupervised
- translation: gözetimsiz
+- word: unsupervised
+  translation: gözetimsiz
  
-  - word: utility
- translation: fayda
+- word: utility
+  translation: fayda
  
-  - word: validation
- translation: geçerleme
+- word: validation
+  translation: geçerleme
  
-  - word: variance
- translation: değişinti
+- word: variance
+  translation: değişinti
  
-  - word: variational
- translation: değişimsel
+- word: variational
+  translation: değişimsel
  
-  - word: vector
- translation: yöney
+- word: vector
+  translation: yöney
  
-  - word: version
- translation: sürüm
+- word: version
+  translation: sürüm
  
-  - word: vigilance
- translation: tetiklik
+- word: vigilance
+  translation: tetiklik
  
-  - word: virtual
- translation: sanal
+- word: virtual
+  translation: sanal
  
-  - word: voting
- translation: oylama
+- word: voting
+  translation: oylama
  
-  - word: weight
- translation: ağırlık
+- word: weight
+  translation: ağırlık
  
-  - word: winner-take-all
- translation: kazanan hepsini alır
+- word: winner-take-all
+  translation: kazanan hepsini alır
  
-  - word: wrapper
- translation: dürümcü
- 
-  - word: xor
- translation: dışlamalı veya
+- word: wrapper
+  translation: dürümcü
+
+- word: xor
+  translation: dışlamalı veya
  
   
  
