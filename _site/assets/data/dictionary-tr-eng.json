@@ -2659,7 +2659,8 @@
       "word"    : "eğitim hatası",
       "translation" : "training error"
     },
-  
+
+
     {
       "word"    : "transkripsiyon",
       "translation" : "transcription"
@@ -2667,7 +2668,7 @@
   
     {
       "word"    : "aktarım öğrenme",
-      "translation" : "transer learning"
+      "translation" : "transfer learning"
     },
   
     {
