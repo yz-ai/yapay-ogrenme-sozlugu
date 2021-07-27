@@ -22,7 +22,7 @@ footer:
         logo:
             text: Yapay Öğrenme Sözlüğü
             image:
-        copyright:  Yapay Öğrenme Sözlüğü © 2019. Bir Yapay Zeka Araştırma İnisiyatifi Ürünüdür.
+        copyright:  Yapay Öğrenme Sözlüğü © 2021. Bir Yapay Zeka Araştırma İnisiyatifi Ürünüdür.
     social_list:
         - network_name: github
           profile_url: 'https://github.com/yz-ai'
